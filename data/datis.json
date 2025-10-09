@@ -1,0 +1,14 @@
+[
+    {"Nombre":"Ana",
+    "Fechas":"29/05/1998",
+    "Profecion":"Sociologa"
+    },
+    {"Nombre":"Sofia",
+    "Fechas":"04/01/2005",
+    "Profecion":"Politologa"  
+    },
+    {"Nombre":"Ivan",
+    "Fechas":"13/09/1995",
+    "Profecion":"Economista"
+    }
+]

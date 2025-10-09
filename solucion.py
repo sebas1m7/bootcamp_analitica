@@ -10,5 +10,5 @@ fr2= pa.read_csv("data/ejercicio.csv", usecols=["Nombres","Apellidos"])
 fr4=["Nombres",'Apellidos','Edad']
 df=df[fr4]
 print(df)
-        
+
 df.to_excel("miarchivo.xlsx", index="true")

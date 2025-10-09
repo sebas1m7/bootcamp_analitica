@@ -1,0 +1,50 @@
+[
+    {
+        "Nombres":"Lucia",
+        "apellidos":"Ortiz Lopez",
+        "Fecha_Nac":"1999-09-27",
+        "Profecion":"Ing Civil",
+        "estudios":{
+            "entidad":"UNAL",
+            "graduadado":true,
+            "fecha_graduado":"2017-07-12",
+            "programa":"ING Civil"
+        }
+    },
+    {
+        "Nombres":"Carlos",
+        "apellidos":"Perez Gomez",
+        "Fecha_Nac":"1989-09-27",
+        "Profecion":"Ing Sistemas",
+        "estudios":{
+            "entidad":"SALLE",
+            "graduadado":false,
+            "fecha_graduado":"2014-07-12",
+             "programa":"ING Sistemas"
+        } 
+    },
+    {
+        "Nombres":"Fabio",
+        "apellidos":"Ruiz Hernandez",
+        "Fecha_Nac":"1970-07-27",
+        "Profecion":"Ing Industrial",
+        "estudios":{
+            "entidad":"Javeriana",
+            "graduadado":true,
+            "fecha_graduado":"2017-07-12",
+            "programa":"ING Industrial"
+        }
+    },
+    {
+        "Nombres":"Sofia",
+        "apellidos":"Garcia Castro",
+        "Fecha_Nac":"2005-01-16",
+        "Profecion":"Comunicacion Social",
+        "estudios":{
+            "entidad":"Rosario",
+            "graduadado":true,
+            "fecha_graduado":"2022-08-17",
+            "programa":"Comunicacion"
+        }
+    }
+]
