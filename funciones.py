@@ -38,6 +38,18 @@ print(f"la suma de 4 + 1 es = {suma2(4,1)}")'''
 
 #numeros=[10,8,45,26,7]
 
-d=[10,8,45,26,7]
-for i in range(len(d))
+'''numeros=[10,8,45,26,7]
+numeros.sort()
+print("Numeros ordenados:", numeros)
 
+suma_total = sum(numeros)
+print("La suma total es:", suma_total)'''
+
+'''numeros=[10,8,45,26,7]
+
+ordenados = sorted(numeros)
+suma_total = sum(ordenados)
+print("Numeros ordenados:", ordenados)
+print("La suma total es:", suma_total)'''
+
+print("suma total:", sum(sorted([10, 8, 45, 26,7])))
