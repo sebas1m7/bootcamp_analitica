@@ -1,10 +1,14 @@
 {
     "grupo1":[
-        {"Nombre": "Ana","Edad":28},
-        {"Nombre": "Sara","Edad":22}
+        {"Id":1,"Nombre": "Ana","Edad":28},
+        {"Id":2,"Nombre": "Sara","Edad":22},
+        {"Id":3,"Nombre": "Carlos","Edad":20},
+        {"Id":2,"Nombre": "Sara","Edad":22}
     ],
     "grupo2":[
-        {"Nombre": "Andres","Edad":38},
-        {"Nombre": "Luis","Edad":20}
+        {"Id":1,"Nombre": "Andres","Edad":38},
+        {"Id":2,"Nombre": "Luis","Edad":20},
+        {"Id":3,"Nombre": "Fabio","Edad":44},
+        {"Id":2,"Nombre": "Luis","Edad":20}
     ]
 }
