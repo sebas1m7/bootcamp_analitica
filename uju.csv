@@ -1,0 +1,986 @@
+Pais,Nombre_cliente,Datos_pedido,Estado,Producto,Categoria,Marca,Costo,Ventas,Cantidad,Costo_Totales,Ventas_totales,Ganancias,Ganancias_Totales
+India,Adhir Samal,11/01/2020,Delivered,512 GB M.2,SSD,Samsung,6500.0,8450.0,1.0,6500.0,8450.0,1950.0,1950.0
+E.E.U.U,Dannana Jhammi,11/01/2020,Delivered,RYZEN 3rd gen. 3500 ,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Italia,Vipin Kumar,11/01/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,2.0,14000.0,18200.0,2100.0,4200.0
+Alemania,Ranjeet Kumar,11/01/2020,Delivered,16 GB DDR4 RAM,RAM,Hynix,6550.0,8515.0,3.0,19650.0,25545.0,1965.0,5895.0
+Brasil,Sajal Singhal,11/01/2020,Order,Standard ATX motherboard,MotherBoard,Gigabyte,7650.0,9945.0,4.0,30600.0,39780.0,2295.0,9180.0
+Japon,Akhilesh Kumar,11/01/2020,Order,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,2.0,2300.0,2990.0,345.0,690.0
+China,Suvankar Chakraborty,11/01/2020,Order,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,3.0,2550.0,3315.0,255.0,765.0
+Colombia,Suvankar Adhikary,12/01/2020,Order,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,2.0,1300.0,1690.0,195.0,390.0
+Brasil,Rahul Kumar Prajapati,13/01/2020,Order,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,1.0,7500.0,9750.0,2250.0,2250.0
+Mexico,Sagar Jeur,14/01/2020,Order,2 TB HDD,HDD,Seagate,10000.0,13000.0,3.0,30000.0,39000.0,3000.0,9000.0
+China,Rhushikesh Mane,15/01/2020,Order,1 TB SSD,SSD,Samsung,10500.0,13650.0,1.0,10500.0,13650.0,3150.0,3150.0
+Mexico,Ashish Kumar,16/01/2020,Order,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+Colombia,Javed Akhter,17/01/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,2.0,14000.0,18200.0,2100.0,4200.0
+Japon,Haridas Balraj,18/01/2020,Processing,4 GB DDR4 Ram,RAM,Hynix,1680.0,2184.0,1.0,1680.0,2184.0,504.0,504.0
+Reino Unido,Kundan Kumar,19/01/2020,Processing,Micro ATX motherboard,MotherBoard,MSI,6540.0,8502.0,2.0,13080.0,17004.0,1962.0,3924.0
+Francia,Atif Siddiqui,20/01/2020,Processing,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,1.0,2680.0,3484.0,804.0,804.0
+Mexico,Aditya Agarwal,21/01/2020,Processing,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,2.0,16500.0,21450.0,2475.0,4950.0
+Japon,Firdoush Jabee,22/01/2020,Processing,8 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,4.0,10600.0,13780.0,795.0,3180.0
+Brasil,Jay Prakash Kumar,22/01/2020,Processing,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,2.0,25100.0,32630.0,3765.0,7530.0
+Alemania,Ashish Pandey,22/01/2020,Processing,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,2.0,29000.0,37700.0,4350.0,8700.0
+Alemania,Ajay Sharma,22/01/2020,Processing,USB Keyboard,Keyboard,Dell,800.0,1040.0,1.0,800.0,1040.0,240.0,240.0
+Colombia,Moinuddin Saifi,22/01/2020,Processing,Wireless Mouse,Mouse,Samsung,600.0,780.0,3.0,1800.0,2340.0,180.0,540.0
+Alemania,Ramkrishna Das Adhikary,22/01/2020,Processing,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,4.0,42000.0,54600.0,3150.0,12600.0
+Brasil,Ranjeet Mandal,23/01/2020,Processing,2 TB HDD,HDD,Western Digital,6500.0,8450.0,1.0,6500.0,8450.0,1950.0,1950.0
+Alemania,Ashwini Adsare,24/01/2020,Processing,257 GB SSD,SSD,Samsung,4500.0,5850.0,4.0,18000.0,23400.0,1350.0,5400.0
+Australia,Rajesh Variya,25/01/2020,Processing,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,2.0,17000.0,22100.0,2550.0,5100.0
+Australia,Amit Singh,26/01/2020,Processing,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,2.0,25000.0,32500.0,3750.0,7500.0
+Australia,Vinod Mehta,26/01/2020,Shipped,9 GB DDR4 RAM,Computer Case,Hynix,3500.0,4550.0,3.0,10500.0,13650.0,1050.0,3150.0
+Colombia,Jignesh Mhatre,26/01/2020,Order,BTX motherboard,Mouse,Gigabyte,4500.0,5850.0,4.0,18000.0,23400.0,1350.0,5400.0
+Francia,Rahul Kashyap,26/01/2020,Order,4 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,3.0,6300.0,8190.0,630.0,1890.0
+Brasil,Mohammed Abdul Kaleem,27/01/2020,Order,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,3.0,3450.0,4485.0,345.0,1035.0
+Brasil,Chandrakant Kasbe,28/01/2020,Order,USB Mouse,Mouse,Samsung,350.0,455.0,1.0,350.0,455.0,105.0,105.0
+Francia,Rohan Kale,29/01/2020,Order,"19"" LED Display",Monitor,Dell,9500.0,12350.0,3.0,28500.0,37050.0,2850.0,8550.0
+China,Aniruddha Kekapure,30/01/2020,Processing,3 TB HDD,HDD,Western Digital,10000.0,13000.0,1.0,10000.0,13000.0,3000.0,3000.0
+Brasil,Aslam Raza,31/01/2020,Delivered,513 GB M.2,SSD,Samsung,6500.0,8450.0,3.0,19500.0,25350.0,1950.0,5850.0
+Mexico,Roshan Zameer,01/02/2020,Shipped,RYZEN 3rd gen. 3501,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+Reino Unido,Rakesh Kumar Sharma,01/02/2020,Shipped,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,3.0,21000.0,27300.0,2100.0,6300.0
+China,Shivanand Sahani,01/02/2020,Shipped,17 GB DDR4 RAM,Computer Case,Hynix,6550.0,8515.0,3.0,19650.0,25545.0,1965.0,5895.0
+Colombia,Kunal Patra,01/02/2020,Shipped,Standard ATX motherboard,Mouse,Gigabyte,7650.0,9945.0,3.0,22950.0,29835.0,2295.0,6885.0
+Colombia,Bijendra,02/02/2020,Shipped,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,1.0,1150.0,1495.0,345.0,345.0
+China,Kranti Bheke,03/02/2020,Shipped,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,1.0,850.0,1105.0,255.0,255.0
+Colombia,Jagdeep,03/02/2020,Shipped,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,2.0,1300.0,1690.0,195.0,390.0
+Alemania,Adhir Samal,03/02/2020,Shipped,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,1.0,7500.0,9750.0,2250.0,2250.0
+E.E.U.U,Dannana Jhammi,04/02/2020,Shipped,3 TB HDD,HDD,Seagate,10000.0,13000.0,3.0,30000.0,39000.0,3000.0,9000.0
+Reino Unido,Vipin Kumar,05/02/2020,Shipped,2 TB SSD,SSD,Samsung,10500.0,13650.0,2.0,21000.0,27300.0,3150.0,6300.0
+Francia,Ranjeet Kumar,06/02/2020,Processing,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+India,Sajal Singhal,07/02/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+Francia,Akhilesh Kumar,08/02/2020,Shipped,5 GB DDR4 Ram,Computer Case,Hynix,1680.0,2184.0,2.0,3360.0,4368.0,504.0,1008.0
+Mexico,Suvankar Chakraborty,09/02/2020,Order,Micro ATX motherboard,Mouse,MSI,6540.0,8502.0,1.0,6540.0,8502.0,1962.0,1962.0
+China,Suvankar Adhikary,10/02/2020,Processing,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,1.0,2680.0,3484.0,804.0,804.0
+China,Rahul Kumar Prajapati,11/02/2020,Delivered,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,1.0,8250.0,10725.0,2475.0,2475.0
+India,Sagar Jeur,12/02/2020,Shipped,9 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,3.0,7950.0,10335.0,795.0,2385.0
+Reino Unido,Rhushikesh Mane,13/02/2020,Order,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,3.0,37650.0,48945.0,3765.0,11295.0
+China,Ashish Kumar,14/02/2020,Processing,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,3.0,43500.0,56550.0,4350.0,13050.0
+Reino Unido,Javed Akhter,15/02/2020,Delivered,USB Keyboard,Keyboard,Dell,800.0,1040.0,3.0,2400.0,3120.0,240.0,720.0
+E.E.U.U,Haridas Balraj,16/02/2020,Shipped,Wireless Mouse,Mouse,Samsung,600.0,780.0,3.0,1800.0,2340.0,180.0,540.0
+Italia,Kundan Kumar,17/02/2020,Order,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,3.0,31500.0,40950.0,3150.0,9450.0
+Francia,Atif Siddiqui,18/02/2020,Processing,3 TB HDD,HDD,Western Digital,6500.0,8450.0,2.0,13000.0,16900.0,1950.0,3900.0
+Alemania,Aditya Agarwal,19/02/2020,Delivered,258 GB SSD,SSD,Samsung,4500.0,5850.0,2.0,9000.0,11700.0,1350.0,2700.0
+Reino Unido,Firdoush Jabee,19/02/2020,Shipped,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,2.0,17000.0,22100.0,2550.0,5100.0
+Brasil,Jay Prakash Kumar,19/02/2020,Order,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,4.0,50000.0,65000.0,3750.0,15000.0
+Italia,Ashish Pandey,19/02/2020,Processing,10 GB DDR4 RAM,NIC,Hynix,3500.0,4550.0,2.0,7000.0,9100.0,1050.0,2100.0
+Italia,Ajay Sharma,20/02/2020,Delivered,BTX motherboard,Printer,Gigabyte,4500.0,5850.0,2.0,9000.0,11700.0,1350.0,2700.0
+India,Moinuddin Saifi,21/02/2020,Shipped,5 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,3.0,6300.0,8190.0,630.0,1890.0
+Japon,Ramkrishna Das Adhikary,22/02/2020,Order,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,1.0,1150.0,1495.0,345.0,345.0
+Mexico,Ranjeet Mandal,23/02/2020,Processing,USB Mouse,Mouse,Samsung,350.0,455.0,1.0,350.0,455.0,105.0,105.0
+E.E.U.U,Ashwini Adsare,24/02/2020,Delivered,"19"" LED Display",Monitor,Dell,9500.0,12350.0,1.0,9500.0,12350.0,2850.0,2850.0
+Reino Unido,Rajesh Variya,25/02/2020,Shipped,4 TB HDD,HDD,Western Digital,10000.0,13000.0,1.0,10000.0,13000.0,3000.0,3000.0
+Reino Unido,Amit Singh,26/02/2020,Order,514 GB M.2,SSD,Samsung,6500.0,8450.0,3.0,19500.0,25350.0,1950.0,5850.0
+Alemania,Vinod Mehta,27/02/2020,Processing,RYZEN 3rd gen. 3502,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Brasil,Jignesh Mhatre,28/02/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,1.0,7000.0,9100.0,2100.0,2100.0
+Colombia,Rahul Kashyap,29/02/2020,Shipped,18 GB DDR4 RAM,NIC,Hynix,6550.0,8515.0,2.0,13100.0,17030.0,1965.0,3930.0
+Australia,Mohammed Abdul Kaleem,01/03/2020,Order,Standard ATX motherboard,Printer,Gigabyte,7650.0,9945.0,3.0,22950.0,29835.0,2295.0,6885.0
+Japon,Chandrakant Kasbe,02/03/2020,Processing,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,2.0,2300.0,2990.0,345.0,690.0
+Reino Unido,Rohan Kale,03/03/2020,Delivered,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,1.0,850.0,1105.0,255.0,255.0
+Mexico,Aniruddha Kekapure,04/03/2020,Shipped,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,3.0,1950.0,2535.0,195.0,585.0
+India,Aslam Raza,05/03/2020,Order,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,4.0,30000.0,39000.0,2250.0,9000.0
+Italia,Roshan Zameer,06/03/2020,Processing,4 TB HDD,HDD,Seagate,10000.0,13000.0,2.0,20000.0,26000.0,3000.0,6000.0
+Mexico,Rakesh Kumar Sharma,07/03/2020,Delivered,3 TB SSD,SSD,Samsung,10500.0,13650.0,3.0,31500.0,40950.0,3150.0,9450.0
+Alemania,Shivanand Sahani,07/03/2020,Shipped,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Australia,Kunal Patra,07/03/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,2.0,14000.0,18200.0,2100.0,4200.0
+Francia,Bijendra,07/03/2020,Processing,6 GB DDR4 Ram,NIC,Hynix,1680.0,2184.0,4.0,6720.0,8736.0,504.0,2016.0
+Australia,Kranti Bheke,07/03/2020,Delivered,Micro ATX motherboard,Printer,MSI,6540.0,8502.0,1.0,6540.0,8502.0,1962.0,1962.0
+Colombia,Jagdeep,07/03/2020,Shipped,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,3.0,8040.0,10452.0,804.0,2412.0
+Alemania,Adhir Samal,07/03/2020,Order,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,2.0,16500.0,21450.0,2475.0,4950.0
+Japon,Dannana Jhammi,08/03/2020,Processing,10 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,3.0,7950.0,10335.0,795.0,2385.0
+Japon,Vipin Kumar,09/03/2020,Delivered,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,1.0,12550.0,16315.0,3765.0,3765.0
+Mexico,Ranjeet Kumar,10/03/2020,Shipped,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,1.0,14500.0,18850.0,4350.0,4350.0
+Mexico,Sajal Singhal,11/03/2020,Order,USB Keyboard,Keyboard,Dell,800.0,1040.0,2.0,1600.0,2080.0,240.0,480.0
+Reino Unido,Akhilesh Kumar,12/03/2020,Processing,Wireless Mouse,Mouse,Samsung,600.0,780.0,1.0,600.0,780.0,180.0,180.0
+E.E.U.U,Suvankar Chakraborty,13/03/2020,Delivered,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,1.0,10500.0,13650.0,3150.0,3150.0
+Japon,Suvankar Adhikary,14/03/2020,Shipped,4 TB HDD,HDD,Western Digital,6500.0,8450.0,3.0,19500.0,25350.0,1950.0,5850.0
+Mexico,Rahul Kumar Prajapati,15/03/2020,Order,259 GB SSD,SSD,Samsung,4500.0,5850.0,2.0,9000.0,11700.0,1350.0,2700.0
+Mexico,Sagar Jeur,16/03/2020,Processing,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,1.0,8500.0,11050.0,2550.0,2550.0
+Colombia,Rhushikesh Mane,16/03/2020,Delivered,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,3.0,37500.0,48750.0,3750.0,11250.0
+Reino Unido,Ashish Kumar,16/03/2020,Shipped,11 GB DDR4 RAM,RAM,Hynix,3500.0,4550.0,1.0,3500.0,4550.0,1050.0,1050.0
+China,Javed Akhter,16/03/2020,Order,BTX motherboard,Motherboard,Gigabyte,4500.0,5850.0,4.0,18000.0,23400.0,1350.0,5400.0
+Colombia,Haridas Balraj,16/03/2020,Processing,6 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,3.0,6300.0,8190.0,630.0,1890.0
+Brasil,Kundan Kumar,16/03/2020,Delivered,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,4.0,4600.0,5980.0,345.0,1380.0
+Italia,Atif Siddiqui,16/03/2020,Shipped,USB Mouse,Mouse,Samsung,350.0,455.0,3.0,1050.0,1365.0,105.0,315.0
+Brasil,Aditya Agarwal,16/03/2020,Order,"19"" LED Display",Monitor,Dell,9500.0,12350.0,3.0,28500.0,37050.0,2850.0,8550.0
+Mexico,Firdoush Jabee,16/03/2020,Processing,5 TB HDD,HDD,Western Digital,10000.0,13000.0,1.0,10000.0,13000.0,3000.0,3000.0
+India,Jay Prakash Kumar,16/03/2020,Delivered,515 GB M.2,SSD,Samsung,6500.0,8450.0,2.0,13000.0,16900.0,1950.0,3900.0
+Italia,Ashish Pandey,17/03/2020,Shipped,RYZEN 3rd gen. 3503,CPU,Intel,8500.0,11050.0,1.0,8500.0,11050.0,2550.0,2550.0
+China,Ajay Sharma,18/03/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,3.0,21000.0,27300.0,2100.0,6300.0
+Japon,Moinuddin Saifi,18/03/2020,Processing,19 GB DDR4 RAM,RAM,Hynix,6550.0,8515.0,2.0,13100.0,17030.0,1965.0,3930.0
+Mexico,Ramkrishna Das Adhikary,18/03/2020,Delivered,Standard ATX motherboard,Motherboard,Gigabyte,7650.0,9945.0,4.0,30600.0,39780.0,2295.0,9180.0
+Colombia,Ranjeet Mandal,18/03/2020,Shipped,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,2.0,2300.0,2990.0,345.0,690.0
+Alemania,Vinod Singh,18/03/2020,Order,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,4.0,3400.0,4420.0,255.0,1020.0
+E.E.U.U,Ajay Mehta,18/03/2020,Processing,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,4.0,2600.0,3380.0,195.0,780.0
+Francia,Vikas Bhalekar,18/03/2020,Delivered,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,1.0,7500.0,9750.0,2250.0,2250.0
+Reino Unido,Vinod Mehta,18/03/2020,Shipped,5 TB HDD,HDD,Seagate,10000.0,13000.0,2.0,20000.0,26000.0,3000.0,6000.0
+Mexico,Jignesh Mhatre,19/03/2020,Order,4 TB SSD,SSD,Samsung,10500.0,13650.0,3.0,31500.0,40950.0,3150.0,9450.0
+Alemania,Sharmili Pandit,19/03/2020,Processing,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+Australia,Vijaya singh,19/03/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,1.0,7000.0,9100.0,2100.0,2100.0
+China,Dilip Rathod,19/03/2020,Shipped,7 GB DDR4 Ram,RAM,Hynix,1680.0,2184.0,2.0,3360.0,4368.0,504.0,1008.0
+Colombia,Rohan Kale,19/03/2020,Order,Micro ATX motherboard,Motherboard,MSI,6540.0,8502.0,2.0,13080.0,17004.0,1962.0,3924.0
+China,Aniruddha Kekapure,19/03/2020,Processing,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,1.0,2680.0,3484.0,804.0,804.0
+Alemania,Jagjeet Variya,19/03/2020,Delivered,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,1.0,8250.0,10725.0,2475.0,2475.0
+Australia,Roshan Zameer,20/03/2020,Shipped,11 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,3.0,7950.0,10335.0,795.0,2385.0
+Mexico,Binod Kumar,21/03/2020,Order,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,4.0,50200.0,65260.0,3765.0,15060.0
+India,Shivanand Sahani,22/03/2020,Processing,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,1.0,14500.0,18850.0,4350.0,4350.0
+China,Vijay Mehta,23/03/2020,Delivered,USB Keyboard,Keyboard,Dell,800.0,1040.0,2.0,1600.0,2080.0,240.0,480.0
+Italia,Bijendra,24/03/2020,Shipped,Wireless Mouse,Mouse,Samsung,600.0,780.0,3.0,1800.0,2340.0,180.0,540.0
+Colombia,Kranti Bheke,24/03/2020,Order,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,1.0,10500.0,13650.0,3150.0,3150.0
+Italia,Shanti Giri,24/03/2020,Processing,5 TB HDD,HDD,Western Digital,6500.0,8450.0,1.0,6500.0,8450.0,1950.0,1950.0
+Brasil,Adhir Samal,24/03/2020,Delivered,260 GB SSD,SSD,Samsung,4500.0,5850.0,1.0,4500.0,5850.0,1350.0,1350.0
+E.E.U.U,Dannana Jhammi,24/03/2020,Shipped,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+Mexico,Vipin Kumar,24/03/2020,Order,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,4.0,50000.0,65000.0,3750.0,15000.0
+Mexico,Prakash Chamka,24/03/2020,Processing,12 GB DDR4 RAM,Computer Case,Hynix,3500.0,4550.0,3.0,10500.0,13650.0,1050.0,3150.0
+Brasil,Sajal Singhal,24/03/2020,Delivered,BTX motherboard,Mouse,Gigabyte,4500.0,5850.0,4.0,18000.0,23400.0,1350.0,5400.0
+Alemania,Akhilesh Kumar,24/03/2020,Shipped,7 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,3.0,6300.0,8190.0,630.0,1890.0
+Colombia,Suvankar Chakraborty,25/03/2020,Order,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,2.0,2300.0,2990.0,345.0,690.0
+Australia,Suvankar Adhikary,25/03/2020,Processing,USB Mouse,Mouse,Samsung,350.0,455.0,3.0,1050.0,1365.0,105.0,315.0
+Alemania,Rahul Kumar Prajapati,25/03/2020,Delivered,"19"" LED Display",Monitor,Dell,9500.0,12350.0,4.0,38000.0,49400.0,2850.0,11400.0
+Japon,Sagar Jeur,25/03/2020,Shipped,6 TB HDD,HDD,Western Digital,10000.0,13000.0,4.0,40000.0,52000.0,3000.0,12000.0
+Alemania,Rhushikesh Mane,25/03/2020,Order,516 GB M.2,SSD,Samsung,6500.0,8450.0,1.0,6500.0,8450.0,1950.0,1950.0
+India,Vishal Singh,25/03/2020,Processing,RYZEN 3rd gen. 3504,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Colombia,Javed Akhter,25/03/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,3.0,21000.0,27300.0,2100.0,6300.0
+Francia,Haridas Balraj,25/03/2020,Shipped,20 GB DDR4 RAM,Computer Case,Hynix,6550.0,8515.0,3.0,19650.0,25545.0,1965.0,5895.0
+Australia,Kundan Kumar,25/03/2020,Order,Standard ATX motherboard,Mouse,Gigabyte,7650.0,9945.0,4.0,30600.0,39780.0,2295.0,9180.0
+Australia,Vinod Bhave,26/03/2020,Processing,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,2.0,2300.0,2990.0,345.0,690.0
+Australia,Aditya Agarwal,26/03/2020,Delivered,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,2.0,1700.0,2210.0,255.0,510.0
+Reino Unido,Firdoush Jabee,26/03/2020,Shipped,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,1.0,650.0,845.0,195.0,195.0
+China,Jay Prakash Kumar,26/03/2020,Order,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,2.0,15000.0,19500.0,2250.0,4500.0
+Japon,Rajiv Singh,26/03/2020,Processing,6 TB HDD,HDD,Seagate,10000.0,13000.0,1.0,10000.0,13000.0,3000.0,3000.0
+Reino Unido,Ajay Sharma,26/03/2020,Delivered,5 TB SSD,SSD,Samsung,10500.0,13650.0,2.0,21000.0,27300.0,3150.0,6300.0
+Italia,Moinuddin Saifi,26/03/2020,Shipped,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,1.0,8500.0,11050.0,2550.0,2550.0
+Italia,Ramkrishna Das Adhikary,26/03/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+Italia,Ranjeet Mandal,26/03/2020,Processing,8 GB DDR4 Ram,Computer Case,Hynix,1680.0,2184.0,2.0,3360.0,4368.0,504.0,1008.0
+Italia,Ashwini Adsare,26/03/2020,Delivered,Micro ATX motherboard,Mouse,MSI,6540.0,8502.0,3.0,19620.0,25506.0,1962.0,5886.0
+Francia,Rajesh Variya,26/03/2020,Shipped,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,1.0,2680.0,3484.0,804.0,804.0
+Australia,Amit Singh,26/03/2020,Order,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,4.0,33000.0,42900.0,2475.0,9900.0
+Mexico,Vinod Mehta,26/03/2020,Processing,12 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,4.0,10600.0,13780.0,795.0,3180.0
+Japon,Jignesh Mhatre,26/03/2020,Delivered,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,4.0,50200.0,65260.0,3765.0,15060.0
+E.E.U.U,Rahul Kashyap,26/03/2020,Shipped,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,1.0,14500.0,18850.0,4350.0,4350.0
+Italia,Mohammed Abdul Kaleem,27/03/2020,Order,USB Keyboard,Keyboard,Dell,800.0,1040.0,4.0,3200.0,4160.0,240.0,960.0
+Colombia,Chandrakant Kasbe,27/03/2020,Processing,Wireless Mouse,Mouse,Samsung,600.0,780.0,2.0,1200.0,1560.0,180.0,360.0
+Australia,Rohan Kale,27/03/2020,Delivered,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,1.0,10500.0,13650.0,3150.0,3150.0
+Japon,Aniruddha Kekapure,27/03/2020,Shipped,6 TB HDD,HDD,Western Digital,6500.0,8450.0,3.0,19500.0,25350.0,1950.0,5850.0
+Brasil,Aslam Raza,27/03/2020,Order,261 GB SSD,SSD,Samsung,4500.0,5850.0,1.0,4500.0,5850.0,1350.0,1350.0
+Brasil,Roshan Zameer,27/03/2020,Processing,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+Italia,Rakesh Kumar Sharma,27/03/2020,Delivered,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,1.0,12500.0,16250.0,3750.0,3750.0
+Reino Unido,Shivanand Sahani,27/03/2020,Shipped,13 GB DDR4 RAM,NIC,Hynix,3500.0,4550.0,2.0,7000.0,9100.0,1050.0,2100.0
+Reino Unido,Kunal Patra,27/03/2020,Order,BTX motherboard,Printer,Gigabyte,4500.0,5850.0,3.0,13500.0,17550.0,1350.0,4050.0
+E.E.U.U,Bijendra,27/03/2020,Processing,8 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,4.0,8400.0,10920.0,630.0,2520.0
+India,Kranti Bheke,27/03/2020,Delivered,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,3.0,3450.0,4485.0,345.0,1035.0
+Australia,Jagdeep,27/03/2020,Shipped,USB Mouse,Mouse,Samsung,350.0,455.0,4.0,1400.0,1820.0,105.0,420.0
+Alemania,Adhir Samal,27/03/2020,Order,"19"" LED Display",Monitor,Dell,9500.0,12350.0,4.0,38000.0,49400.0,2850.0,11400.0
+Japon,Dannana Jhammi,27/03/2020,Processing,7 TB HDD,HDD,Western Digital,10000.0,13000.0,2.0,20000.0,26000.0,3000.0,6000.0
+Italia,Vipin Kumar,27/03/2020,Delivered,517 GB M.2,SSD,Samsung,6500.0,8450.0,4.0,26000.0,33800.0,1950.0,7800.0
+Italia,Ranjeet Kumar,27/03/2020,Shipped,RYZEN 3rd gen. 3505,CPU,Intel,8500.0,11050.0,2.0,17000.0,22100.0,2550.0,5100.0
+Alemania,Sajal Singhal,27/03/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,3.0,21000.0,27300.0,2100.0,6300.0
+Australia,Akhilesh Kumar,27/03/2020,Processing,21 GB DDR4 RAM,NIC,Hynix,6550.0,8515.0,2.0,13100.0,17030.0,1965.0,3930.0
+Italia,Suvankar Chakraborty,27/03/2020,Delivered,Standard ATX motherboard,Printer,Gigabyte,7650.0,9945.0,2.0,15300.0,19890.0,2295.0,4590.0
+E.E.U.U,Suvankar Adhikary,27/03/2020,Shipped,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,3.0,3450.0,4485.0,345.0,1035.0
+Brasil,Rahul Kumar Prajapati,27/03/2020,Order,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,1.0,850.0,1105.0,255.0,255.0
+Colombia,Sagar Jeur,27/03/2020,Processing,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,4.0,2600.0,3380.0,195.0,780.0
+China,Rhushikesh Mane,27/03/2020,Delivered,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,1.0,7500.0,9750.0,2250.0,2250.0
+Australia,Ashish Kumar,27/03/2020,Shipped,7 TB HDD,HDD,Seagate,10000.0,13000.0,1.0,10000.0,13000.0,3000.0,3000.0
+Francia,Javed Akhter,27/03/2020,Order,6 TB SSD,SSD,Samsung,10500.0,13650.0,3.0,31500.0,40950.0,3150.0,9450.0
+Colombia,Haridas Balraj,27/03/2020,Processing,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,1.0,8500.0,11050.0,2550.0,2550.0
+Australia,Kundan Kumar,27/03/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,3.0,21000.0,27300.0,2100.0,6300.0
+India,Atif Siddiqui,27/03/2020,Shipped,9 GB DDR4 Ram,NIC,Hynix,1680.0,2184.0,2.0,3360.0,4368.0,504.0,1008.0
+Japon,Aditya Agarwal,27/03/2020,Order,Micro ATX motherboard,Printer,MSI,6540.0,8502.0,3.0,19620.0,25506.0,1962.0,5886.0
+Colombia,Firdoush Jabee,27/03/2020,Processing,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,3.0,8040.0,10452.0,804.0,2412.0
+Australia,Jay Prakash Kumar,27/03/2020,Delivered,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,4.0,33000.0,42900.0,2475.0,9900.0
+Brasil,Ashish Pandey,27/03/2020,Shipped,13 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,4.0,10600.0,13780.0,795.0,3180.0
+Australia,Ajay Sharma,28/03/2020,Order,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,4.0,50200.0,65260.0,3765.0,15060.0
+Italia,Moinuddin Saifi,28/03/2020,Processing,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,1.0,14500.0,18850.0,4350.0,4350.0
+Australia,Ramkrishna Das Adhikary,28/03/2020,Delivered,USB Keyboard,Keyboard,Dell,800.0,1040.0,4.0,3200.0,4160.0,240.0,960.0
+Alemania,Ranjeet Mandal,28/03/2020,Shipped,Wireless Mouse,Mouse,Samsung,600.0,780.0,2.0,1200.0,1560.0,180.0,360.0
+Australia,Ashwini Adsare,28/03/2020,Order,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,1.0,10500.0,13650.0,3150.0,3150.0
+Francia,Rajesh Variya,28/03/2020,Processing,7 TB HDD,HDD,Western Digital,6500.0,8450.0,4.0,26000.0,33800.0,1950.0,7800.0
+Reino Unido,Amit Singh,28/03/2020,Delivered,262 GB SSD,SSD,Samsung,4500.0,5850.0,2.0,9000.0,11700.0,1350.0,2700.0
+Alemania,Vinod Mehta,28/03/2020,Shipped,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Mexico,Jignesh Mhatre,28/03/2020,Order,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,2.0,25000.0,32500.0,3750.0,7500.0
+Francia,Rahul Kashyap,28/03/2020,Processing,14 GB DDR4 RAM,RAM,Hynix,3500.0,4550.0,4.0,14000.0,18200.0,1050.0,4200.0
+China,Mohammed Abdul Kaleem,28/03/2020,Delivered,BTX motherboard,Motherboard,Gigabyte,4500.0,5850.0,2.0,9000.0,11700.0,1350.0,2700.0
+Brasil,Chandrakant Kasbe,28/03/2020,Shipped,9 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,1.0,2100.0,2730.0,630.0,630.0
+Australia,Rohan Kale,28/03/2020,Order,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,1.0,1150.0,1495.0,345.0,345.0
+Australia,Aniruddha Kekapure,28/03/2020,Processing,USB Mouse,Mouse,Samsung,350.0,455.0,2.0,700.0,910.0,105.0,210.0
+Mexico,Aslam Raza,28/03/2020,Delivered,"19"" LED Display",Monitor,Dell,9500.0,12350.0,2.0,19000.0,24700.0,2850.0,5700.0
+China,Roshan Zameer,28/03/2020,Shipped,8 TB HDD,HDD,Western Digital,10000.0,13000.0,4.0,40000.0,52000.0,3000.0,12000.0
+Francia,Rakesh Kumar Sharma,28/03/2020,Order,518 GB M.2,SSD,Samsung,6500.0,8450.0,3.0,19500.0,25350.0,1950.0,5850.0
+Japon,Shivanand Sahani,28/03/2020,Processing,RYZEN 3rd gen. 3506,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+E.E.U.U,Kunal Patra,28/03/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+Reino Unido,Bijendra,28/03/2020,Shipped,22 GB DDR4 RAM,RAM,Hynix,6550.0,8515.0,1.0,6550.0,8515.0,1965.0,1965.0
+Australia,Kranti Bheke,28/03/2020,Order,Standard ATX motherboard,Motherboard,Gigabyte,7650.0,9945.0,1.0,7650.0,9945.0,2295.0,2295.0
+Brasil,Jagdeep,28/03/2020,Processing,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,1.0,1150.0,1495.0,345.0,345.0
+China,Adhir Samal,28/03/2020,Delivered,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,4.0,3400.0,4420.0,255.0,1020.0
+Italia,Dannana Jhammi,28/03/2020,Shipped,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,1.0,650.0,845.0,195.0,195.0
+Japon,Vipin Kumar,28/03/2020,Order,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,3.0,22500.0,29250.0,2250.0,6750.0
+China,Ranjeet Kumar,28/03/2020,Processing,8 TB HDD,HDD,Seagate,10000.0,13000.0,1.0,10000.0,13000.0,3000.0,3000.0
+India,Sajal Singhal,28/03/2020,Delivered,7 TB SSD,SSD,Samsung,10500.0,13650.0,1.0,10500.0,13650.0,3150.0,3150.0
+India,Akhilesh Kumar,28/03/2020,Shipped,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,2.0,17000.0,22100.0,2550.0,5100.0
+Mexico,Suvankar Chakraborty,28/03/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+Australia,Suvankar Adhikary,28/03/2020,Processing,10 GB DDR4 Ram,RAM,Hynix,1680.0,2184.0,1.0,1680.0,2184.0,504.0,504.0
+E.E.U.U,Rahul Kumar Prajapati,28/03/2020,Delivered,Micro ATX motherboard,Motherboard,MSI,6540.0,8502.0,3.0,19620.0,25506.0,1962.0,5886.0
+Alemania,Sagar Jeur,28/03/2020,Shipped,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,3.0,8040.0,10452.0,804.0,2412.0
+Brasil,Rhushikesh Mane,28/03/2020,Order,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,1.0,8250.0,10725.0,2475.0,2475.0
+Japon,Ashish Kumar,28/03/2020,Processing,14 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,3.0,7950.0,10335.0,795.0,2385.0
+Reino Unido,Javed Akhter,28/03/2020,Delivered,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,4.0,50200.0,65260.0,3765.0,15060.0
+Reino Unido,Haridas Balraj,28/03/2020,Shipped,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,1.0,14500.0,18850.0,4350.0,4350.0
+Colombia,Kundan Kumar,28/03/2020,Order,USB Keyboard,Keyboard,Dell,800.0,1040.0,4.0,3200.0,4160.0,240.0,960.0
+Colombia,Atif Siddiqui,28/03/2020,Processing,Wireless Mouse,Mouse,Samsung,600.0,780.0,4.0,2400.0,3120.0,180.0,720.0
+Brasil,Aditya Agarwal,29/03/2020,Delivered,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,3.0,31500.0,40950.0,3150.0,9450.0
+Australia,Firdoush Jabee,29/03/2020,Shipped,8 TB HDD,HDD,Western Digital,6500.0,8450.0,2.0,13000.0,16900.0,1950.0,3900.0
+Australia,Jay Prakash Kumar,29/03/2020,Order,263 GB SSD,SSD,Samsung,4500.0,5850.0,1.0,4500.0,5850.0,1350.0,1350.0
+Alemania,Ashish Pandey,29/03/2020,Processing,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+Australia,Ajay Sharma,29/03/2020,Delivered,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,3.0,37500.0,48750.0,3750.0,11250.0
+Alemania,Moinuddin Saifi,29/03/2020,Shipped,15 GB DDR4 RAM,Computer Case,Hynix,3500.0,4550.0,1.0,3500.0,4550.0,1050.0,1050.0
+Australia,Ramkrishna Das Adhikary,29/03/2020,Order,BTX motherboard,Mouse,Gigabyte,4500.0,5850.0,1.0,4500.0,5850.0,1350.0,1350.0
+Colombia,Ranjeet Mandal,29/03/2020,Processing,10 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,1.0,2100.0,2730.0,630.0,630.0
+Mexico,Ashwini Adsare,29/03/2020,Delivered,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,2.0,2300.0,2990.0,345.0,690.0
+Alemania,Rajesh Variya,29/03/2020,Shipped,USB Mouse,Mouse,Samsung,350.0,455.0,1.0,350.0,455.0,105.0,105.0
+Italia,Amit Singh,29/03/2020,Order,"19"" LED Display",Monitor,Dell,9500.0,12350.0,3.0,28500.0,37050.0,2850.0,8550.0
+India,Vinod Mehta,29/03/2020,Processing,9 TB HDD,HDD,Western Digital,10000.0,13000.0,4.0,40000.0,52000.0,3000.0,12000.0
+India,Jignesh Mhatre,29/03/2020,Delivered,519 GB M.2,SSD,Samsung,6500.0,8450.0,3.0,19500.0,25350.0,1950.0,5850.0
+Australia,Rahul Kashyap,29/03/2020,Shipped,RYZEN 3rd gen. 3507,CPU,Intel,8500.0,11050.0,1.0,8500.0,11050.0,2550.0,2550.0
+Alemania,Mohammed Abdul Kaleem,29/03/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,2.0,14000.0,18200.0,2100.0,4200.0
+Francia,Chandrakant Kasbe,29/03/2020,Processing,23 GB DDR4 RAM,Computer Case,Hynix,6550.0,8515.0,1.0,6550.0,8515.0,1965.0,1965.0
+Japon,Rohan Kale,29/03/2020,Delivered,Standard ATX motherboard,Mouse,Gigabyte,7650.0,9945.0,4.0,30600.0,39780.0,2295.0,9180.0
+Italia,Aniruddha Kekapure,29/03/2020,Shipped,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,3.0,3450.0,4485.0,345.0,1035.0
+Colombia,Aslam Raza,29/03/2020,Order,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,1.0,850.0,1105.0,255.0,255.0
+Italia,Roshan Zameer,29/03/2020,Processing,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,3.0,1950.0,2535.0,195.0,585.0
+Australia,Rakesh Kumar Sharma,29/03/2020,Delivered,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,1.0,7500.0,9750.0,2250.0,2250.0
+Colombia,Shivanand Sahani,29/03/2020,Shipped,9 TB HDD,HDD,Seagate,10000.0,13000.0,4.0,40000.0,52000.0,3000.0,12000.0
+Italia,Kunal Patra,29/03/2020,Order,8 TB SSD,SSD,Samsung,10500.0,13650.0,1.0,10500.0,13650.0,3150.0,3150.0
+Reino Unido,Bijendra,29/03/2020,Processing,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+Alemania,Kranti Bheke,29/03/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+India,Jagdeep,29/03/2020,Shipped,11 GB DDR4 Ram,Computer Case,Hynix,1680.0,2184.0,1.0,1680.0,2184.0,504.0,504.0
+Brasil,Adhir Samal,29/03/2020,Order,Micro ATX motherboard,Mouse,MSI,6540.0,8502.0,1.0,6540.0,8502.0,1962.0,1962.0
+Colombia,Dannana Jhammi,29/03/2020,Processing,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,4.0,10720.0,13936.0,804.0,3216.0
+E.E.U.U,Vipin Kumar,29/03/2020,Delivered,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,4.0,33000.0,42900.0,2475.0,9900.0
+Reino Unido,Ranjeet Kumar,29/03/2020,Shipped,15 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,4.0,10600.0,13780.0,795.0,3180.0
+E.E.U.U,Sajal Singhal,29/03/2020,Order,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,1.0,12550.0,16315.0,3765.0,3765.0
+Brasil,Akhilesh Kumar,29/03/2020,Processing,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,1.0,14500.0,18850.0,4350.0,4350.0
+E.E.U.U,Suvankar Chakraborty,29/03/2020,Delivered,USB Keyboard,Keyboard,Dell,800.0,1040.0,2.0,1600.0,2080.0,240.0,480.0
+Italia,Suvankar Adhikary,29/03/2020,Shipped,Wireless Mouse,Mouse,Samsung,600.0,780.0,1.0,600.0,780.0,180.0,180.0
+Colombia,Rahul Kumar Prajapati,29/03/2020,Order,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,2.0,21000.0,27300.0,3150.0,6300.0
+Francia,Sagar Jeur,29/03/2020,Processing,9 TB HDD,HDD,Western Digital,6500.0,8450.0,1.0,6500.0,8450.0,1950.0,1950.0
+Reino Unido,Rhushikesh Mane,29/03/2020,Delivered,264 GB SSD,SSD,Samsung,4500.0,5850.0,1.0,4500.0,5850.0,1350.0,1350.0
+Alemania,Ashish Kumar,29/03/2020,Shipped,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Italia,Javed Akhter,29/03/2020,Order,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,3.0,37500.0,48750.0,3750.0,11250.0
+Colombia,Haridas Balraj,29/03/2020,Processing,16 GB DDR4 RAM,NIC,Hynix,3500.0,4550.0,3.0,10500.0,13650.0,1050.0,3150.0
+Colombia,Kundan Kumar,29/03/2020,Delivered,BTX motherboard,Printer,Gigabyte,4500.0,5850.0,2.0,9000.0,11700.0,1350.0,2700.0
+Japon,Atif Siddiqui,29/03/2020,Shipped,11 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,2.0,4200.0,5460.0,630.0,1260.0
+Francia,Aditya Agarwal,29/03/2020,Order,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,4.0,4600.0,5980.0,345.0,1380.0
+Mexico,Firdoush Jabee,29/03/2020,Processing,USB Mouse,Mouse,Samsung,350.0,455.0,3.0,1050.0,1365.0,105.0,315.0
+Italia,Jay Prakash Kumar,29/03/2020,Delivered,"19"" LED Display",Monitor,Dell,9500.0,12350.0,3.0,28500.0,37050.0,2850.0,8550.0
+Alemania,Ashish Pandey,29/03/2020,Shipped,10 TB HDD,HDD,Western Digital,10000.0,13000.0,4.0,40000.0,52000.0,3000.0,12000.0
+Colombia,Ajay Sharma,29/03/2020,Order,520 GB M.2,SSD,Samsung,6500.0,8450.0,2.0,13000.0,16900.0,1950.0,3900.0
+Japon,Moinuddin Saifi,29/03/2020,Processing,RYZEN 3rd gen. 3508,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+Mexico,Ramkrishna Das Adhikary,29/03/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+E.E.U.U,Ranjeet Mandal,29/03/2020,Shipped,24 GB DDR4 RAM,NIC,Hynix,6550.0,8515.0,1.0,6550.0,8515.0,1965.0,1965.0
+Mexico,Ashwini Adsare,29/03/2020,Order,Standard ATX motherboard,Printer,Gigabyte,7650.0,9945.0,1.0,7650.0,9945.0,2295.0,2295.0
+Francia,Rajesh Variya,29/03/2020,Processing,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,3.0,3450.0,4485.0,345.0,1035.0
+Reino Unido,Amit Singh,29/03/2020,Delivered,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,3.0,2550.0,3315.0,255.0,765.0
+Mexico,Vinod Mehta,29/03/2020,Shipped,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,1.0,650.0,845.0,195.0,195.0
+Italia,Jignesh Mhatre,29/03/2020,Order,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,3.0,22500.0,29250.0,2250.0,6750.0
+India,Rahul Kashyap,29/03/2020,Processing,10 TB HDD,HDD,Seagate,10000.0,13000.0,4.0,40000.0,52000.0,3000.0,12000.0
+Mexico,Mohammed Abdul Kaleem,29/03/2020,Delivered,9 TB SSD,SSD,Samsung,10500.0,13650.0,2.0,21000.0,27300.0,3150.0,6300.0
+Brasil,Chandrakant Kasbe,29/03/2020,Shipped,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+E.E.U.U,Rohan Kale,29/03/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+Brasil,Aniruddha Kekapure,29/03/2020,Processing,12 GB DDR4 Ram,NIC,Hynix,1680.0,2184.0,4.0,6720.0,8736.0,504.0,2016.0
+Brasil,Aslam Raza,29/03/2020,Delivered,Micro ATX motherboard,Printer,MSI,6540.0,8502.0,3.0,19620.0,25506.0,1962.0,5886.0
+Francia,Roshan Zameer,29/03/2020,Shipped,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,3.0,8040.0,10452.0,804.0,2412.0
+Alemania,Rakesh Kumar Sharma,29/03/2020,Order,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,4.0,33000.0,42900.0,2475.0,9900.0
+Italia,Shivanand Sahani,29/03/2020,Processing,16 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,2.0,5300.0,6890.0,795.0,1590.0
+Alemania,Kunal Patra,29/03/2020,Delivered,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,2.0,25100.0,32630.0,3765.0,7530.0
+E.E.U.U,Bijendra,29/03/2020,Shipped,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,2.0,29000.0,37700.0,4350.0,8700.0
+E.E.U.U,Kranti Bheke,29/03/2020,Order,USB Keyboard,Keyboard,Dell,800.0,1040.0,4.0,3200.0,4160.0,240.0,960.0
+Japon,Jagdeep,29/03/2020,Processing,Wireless Mouse,Mouse,Samsung,600.0,780.0,3.0,1800.0,2340.0,180.0,540.0
+Italia,Adhir Samal,29/03/2020,Delivered,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,1.0,10500.0,13650.0,3150.0,3150.0
+Mexico,Dannana Jhammi,29/03/2020,Shipped,10 TB HDD,HDD,Western Digital,6500.0,8450.0,4.0,26000.0,33800.0,1950.0,7800.0
+Italia,Vipin Kumar,29/03/2020,Order,265 GB SSD,SSD,Samsung,4500.0,5850.0,1.0,4500.0,5850.0,1350.0,1350.0
+Francia,Ranjeet Kumar,29/03/2020,Processing,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,2.0,17000.0,22100.0,2550.0,5100.0
+Mexico,Sajal Singhal,29/03/2020,Delivered,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,3.0,37500.0,48750.0,3750.0,11250.0
+Japon,Akhilesh Kumar,29/03/2020,Shipped,17 GB DDR4 RAM,RAM,Hynix,3500.0,4550.0,2.0,7000.0,9100.0,1050.0,2100.0
+Francia,Suvankar Chakraborty,29/03/2020,Order,BTX motherboard,Motherboard,Gigabyte,4500.0,5850.0,3.0,13500.0,17550.0,1350.0,4050.0
+Alemania,Suvankar Adhikary,29/03/2020,Processing,12 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,3.0,6300.0,8190.0,630.0,1890.0
+Brasil,Rahul Kumar Prajapati,29/03/2020,Delivered,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,4.0,4600.0,5980.0,345.0,1380.0
+India,Sagar Jeur,29/03/2020,Shipped,USB Mouse,Mouse,Samsung,350.0,455.0,3.0,1050.0,1365.0,105.0,315.0
+Italia,Rhushikesh Mane,29/03/2020,Order,"19"" LED Display",Monitor,Dell,9500.0,12350.0,1.0,9500.0,12350.0,2850.0,2850.0
+Alemania,Ashish Kumar,29/03/2020,Processing,11 TB HDD,HDD,Western Digital,10000.0,13000.0,1.0,10000.0,13000.0,3000.0,3000.0
+Alemania,Javed Akhter,29/03/2020,Delivered,521 GB M.2,SSD,Samsung,6500.0,8450.0,1.0,6500.0,8450.0,1950.0,1950.0
+Colombia,Haridas Balraj,29/03/2020,Shipped,RYZEN 3rd gen. 3509,CPU,Intel,8500.0,11050.0,2.0,17000.0,22100.0,2550.0,5100.0
+India,Kundan Kumar,29/03/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+Japon,Atif Siddiqui,29/03/2020,Processing,25 GB DDR4 RAM,RAM,Hynix,6550.0,8515.0,1.0,6550.0,8515.0,1965.0,1965.0
+Mexico,Aditya Agarwal,29/03/2020,Delivered,Standard ATX motherboard,Motherboard,Gigabyte,7650.0,9945.0,1.0,7650.0,9945.0,2295.0,2295.0
+Alemania,Firdoush Jabee,29/03/2020,Shipped,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,1.0,1150.0,1495.0,345.0,345.0
+Alemania,Jay Prakash Kumar,29/03/2020,Order,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,2.0,1700.0,2210.0,255.0,510.0
+E.E.U.U,Ashish Pandey,29/03/2020,Processing,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,3.0,1950.0,2535.0,195.0,585.0
+Australia,Ajay Sharma,29/03/2020,Delivered,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,4.0,30000.0,39000.0,2250.0,9000.0
+Japon,Moinuddin Saifi,29/03/2020,Shipped,11 TB HDD,HDD,Seagate,10000.0,13000.0,2.0,20000.0,26000.0,3000.0,6000.0
+Australia,Ramkrishna Das Adhikary,29/03/2020,Order,10 TB SSD,SSD,Samsung,10500.0,13650.0,4.0,42000.0,54600.0,3150.0,12600.0
+Colombia,Ranjeet Mandal,29/03/2020,Processing,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+Francia,Ashwini Adsare,29/03/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,3.0,21000.0,27300.0,2100.0,6300.0
+India,Rajesh Variya,29/03/2020,Shipped,13 GB DDR4 Ram,RAM,Hynix,1680.0,2184.0,4.0,6720.0,8736.0,504.0,2016.0
+Brasil,Amit Singh,29/03/2020,Order,Micro ATX motherboard,Motherboard,MSI,6540.0,8502.0,1.0,6540.0,8502.0,1962.0,1962.0
+Alemania,Vinod Mehta,29/03/2020,Processing,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,4.0,10720.0,13936.0,804.0,3216.0
+China,Jignesh Mhatre,29/03/2020,Delivered,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,4.0,33000.0,42900.0,2475.0,9900.0
+Australia,Rahul Kashyap,29/03/2020,Shipped,17 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,4.0,10600.0,13780.0,795.0,3180.0
+Colombia,Mohammed Abdul Kaleem,29/03/2020,Order,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,4.0,50200.0,65260.0,3765.0,15060.0
+China,Chandrakant Kasbe,29/03/2020,Processing,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,2.0,29000.0,37700.0,4350.0,8700.0
+Brasil,Rohan Kale,29/03/2020,Delivered,USB Keyboard,Keyboard,Dell,800.0,1040.0,2.0,1600.0,2080.0,240.0,480.0
+Australia,Aniruddha Kekapure,29/03/2020,Shipped,Wireless Mouse,Mouse,Samsung,600.0,780.0,4.0,2400.0,3120.0,180.0,720.0
+E.E.U.U,Aslam Raza,29/03/2020,Order,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,2.0,21000.0,27300.0,3150.0,6300.0
+Colombia,Roshan Zameer,29/03/2020,Processing,11 TB HDD,HDD,Western Digital,6500.0,8450.0,3.0,19500.0,25350.0,1950.0,5850.0
+E.E.U.U,Rakesh Kumar Sharma,29/03/2020,Delivered,266 GB SSD,SSD,Samsung,4500.0,5850.0,3.0,13500.0,17550.0,1350.0,4050.0
+Italia,Shivanand Sahani,29/03/2020,Shipped,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Brasil,Kunal Patra,29/03/2020,Order,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,1.0,12500.0,16250.0,3750.0,3750.0
+Mexico,Bijendra,29/03/2020,Processing,18 GB DDR4 RAM,Computer Case,Hynix,3500.0,4550.0,4.0,14000.0,18200.0,1050.0,4200.0
+Francia,Kranti Bheke,29/03/2020,Delivered,BTX motherboard,Mouse,Gigabyte,4500.0,5850.0,4.0,18000.0,23400.0,1350.0,5400.0
+Australia,Jagdeep,29/03/2020,Shipped,13 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,2.0,4200.0,5460.0,630.0,1260.0
+Francia,Adhir Samal,29/03/2020,Order,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,4.0,4600.0,5980.0,345.0,1380.0
+Colombia,Dannana Jhammi,29/03/2020,Processing,USB Mouse,Mouse,Samsung,350.0,455.0,1.0,350.0,455.0,105.0,105.0
+Mexico,Vipin Kumar,29/03/2020,Delivered,"19"" LED Display",Monitor,Dell,9500.0,12350.0,2.0,19000.0,24700.0,2850.0,5700.0
+China,Ranjeet Kumar,30/03/2020,Shipped,12 TB HDD,HDD,Western Digital,10000.0,13000.0,4.0,40000.0,52000.0,3000.0,12000.0
+Colombia,Sajal Singhal,30/03/2020,Order,522 GB M.2,SSD,Samsung,6500.0,8450.0,3.0,19500.0,25350.0,1950.0,5850.0
+India,Akhilesh Kumar,30/03/2020,Processing,RYZEN 3rd gen. 3510,CPU,Intel,8500.0,11050.0,1.0,8500.0,11050.0,2550.0,2550.0
+Japon,Suvankar Chakraborty,30/03/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+E.E.U.U,Suvankar Adhikary,30/03/2020,Shipped,26 GB DDR4 RAM,Computer Case,Hynix,6550.0,8515.0,2.0,13100.0,17030.0,1965.0,3930.0
+Mexico,Rahul Kumar Prajapati,30/03/2020,Order,Standard ATX motherboard,Mouse,Gigabyte,7650.0,9945.0,2.0,15300.0,19890.0,2295.0,4590.0
+China,Sagar Jeur,30/03/2020,Processing,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,4.0,4600.0,5980.0,345.0,1380.0
+Alemania,Rhushikesh Mane,30/03/2020,Delivered,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,4.0,3400.0,4420.0,255.0,1020.0
+Brasil,Ashish Kumar,30/03/2020,Shipped,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,1.0,650.0,845.0,195.0,195.0
+China,Javed Akhter,30/03/2020,Order,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,2.0,15000.0,19500.0,2250.0,4500.0
+China,Haridas Balraj,30/03/2020,Processing,12 TB HDD,HDD,Seagate,10000.0,13000.0,2.0,20000.0,26000.0,3000.0,6000.0
+China,Kundan Kumar,30/03/2020,Delivered,11 TB SSD,SSD,Samsung,10500.0,13650.0,4.0,42000.0,54600.0,3150.0,12600.0
+Colombia,Atif Siddiqui,30/03/2020,Shipped,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Italia,Aditya Agarwal,30/03/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+China,Firdoush Jabee,30/03/2020,Processing,14 GB DDR4 Ram,Computer Case,Hynix,1680.0,2184.0,4.0,6720.0,8736.0,504.0,2016.0
+Australia,Jay Prakash Kumar,30/03/2020,Delivered,Micro ATX motherboard,Mouse,MSI,6540.0,8502.0,3.0,19620.0,25506.0,1962.0,5886.0
+Francia,Ashish Pandey,30/03/2020,Shipped,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,1.0,2680.0,3484.0,804.0,804.0
+E.E.U.U,Ajay Sharma,30/03/2020,Order,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,3.0,24750.0,32175.0,2475.0,7425.0
+China,Moinuddin Saifi,30/03/2020,Processing,18 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,1.0,2650.0,3445.0,795.0,795.0
+Australia,Ramkrishna Das Adhikary,30/03/2020,Delivered,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,3.0,37650.0,48945.0,3765.0,11295.0
+Japon,Ranjeet Mandal,30/03/2020,Shipped,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,2.0,29000.0,37700.0,4350.0,8700.0
+Colombia,Ashwini Adsare,30/03/2020,Order,USB Keyboard,Keyboard,Dell,800.0,1040.0,3.0,2400.0,3120.0,240.0,720.0
+Mexico,Rajesh Variya,30/03/2020,Processing,Wireless Mouse,Mouse,Samsung,600.0,780.0,4.0,2400.0,3120.0,180.0,720.0
+Brasil,Amit Singh,30/03/2020,Delivered,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,1.0,10500.0,13650.0,3150.0,3150.0
+Colombia,Vinod Mehta,30/03/2020,Shipped,12 TB HDD,HDD,Western Digital,6500.0,8450.0,3.0,19500.0,25350.0,1950.0,5850.0
+Brasil,Jignesh Mhatre,30/03/2020,Order,267 GB SSD,SSD,Samsung,4500.0,5850.0,3.0,13500.0,17550.0,1350.0,4050.0
+India,Rahul Kashyap,30/03/2020,Processing,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Italia,Mohammed Abdul Kaleem,30/03/2020,Delivered,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,3.0,37500.0,48750.0,3750.0,11250.0
+Italia,Chandrakant Kasbe,30/03/2020,Shipped,19 GB DDR4 RAM,NIC,Hynix,3500.0,4550.0,2.0,7000.0,9100.0,1050.0,2100.0
+Reino Unido,Rohan Kale,30/03/2020,Order,BTX motherboard,Printer,Gigabyte,4500.0,5850.0,3.0,13500.0,17550.0,1350.0,4050.0
+Mexico,Aniruddha Kekapure,30/03/2020,Processing,14 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,3.0,6300.0,8190.0,630.0,1890.0
+E.E.U.U,Aslam Raza,30/03/2020,Delivered,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,4.0,4600.0,5980.0,345.0,1380.0
+Mexico,Roshan Zameer,30/03/2020,Shipped,USB Mouse,Mouse,Samsung,350.0,455.0,3.0,1050.0,1365.0,105.0,315.0
+Brasil,Rakesh Kumar Sharma,30/03/2020,Order,"19"" LED Display",Monitor,Dell,9500.0,12350.0,4.0,38000.0,49400.0,2850.0,11400.0
+Alemania,Shivanand Sahani,30/03/2020,Processing,13 TB HDD,HDD,Western Digital,10000.0,13000.0,1.0,10000.0,13000.0,3000.0,3000.0
+E.E.U.U,Kunal Patra,30/03/2020,Delivered,523 GB M.2,SSD,Samsung,6500.0,8450.0,4.0,26000.0,33800.0,1950.0,7800.0
+India,Bijendra,30/03/2020,Shipped,RYZEN 3rd gen. 3511,CPU,Intel,8500.0,11050.0,2.0,17000.0,22100.0,2550.0,5100.0
+Colombia,Kranti Bheke,30/03/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,1.0,7000.0,9100.0,2100.0,2100.0
+Colombia,Jagdeep,30/03/2020,Processing,27 GB DDR4 RAM,NIC,Hynix,6550.0,8515.0,3.0,19650.0,25545.0,1965.0,5895.0
+India,Adhir Samal,30/03/2020,Delivered,Standard ATX motherboard,Printer,Gigabyte,7650.0,9945.0,1.0,7650.0,9945.0,2295.0,2295.0
+India,Dannana Jhammi,30/03/2020,Shipped,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,3.0,3450.0,4485.0,345.0,1035.0
+Australia,Vipin Kumar,30/03/2020,Order,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,4.0,3400.0,4420.0,255.0,1020.0
+Reino Unido,Ranjeet Kumar,30/03/2020,Processing,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,4.0,2600.0,3380.0,195.0,780.0
+Reino Unido,Sajal Singhal,30/03/2020,Delivered,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,2.0,15000.0,19500.0,2250.0,4500.0
+China,Akhilesh Kumar,30/03/2020,Shipped,13 TB HDD,HDD,Seagate,10000.0,13000.0,1.0,10000.0,13000.0,3000.0,3000.0
+India,Suvankar Chakraborty,30/03/2020,Order,12 TB SSD,SSD,Samsung,10500.0,13650.0,1.0,10500.0,13650.0,3150.0,3150.0
+Colombia,Suvankar Adhikary,30/03/2020,Processing,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+Colombia,Rahul Kumar Prajapati,30/03/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,2.0,14000.0,18200.0,2100.0,4200.0
+E.E.U.U,Sagar Jeur,30/03/2020,Shipped,15 GB DDR4 Ram,NIC,Hynix,1680.0,2184.0,1.0,1680.0,2184.0,504.0,504.0
+China,Rhushikesh Mane,30/03/2020,Order,Micro ATX motherboard,Printer,MSI,6540.0,8502.0,3.0,19620.0,25506.0,1962.0,5886.0
+Francia,Ashish Kumar,30/03/2020,Processing,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,1.0,2680.0,3484.0,804.0,804.0
+Australia,Javed Akhter,30/03/2020,Delivered,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,4.0,33000.0,42900.0,2475.0,9900.0
+Italia,Haridas Balraj,30/03/2020,Shipped,19 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,3.0,7950.0,10335.0,795.0,2385.0
+Colombia,Kundan Kumar,30/03/2020,Order,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,1.0,12550.0,16315.0,3765.0,3765.0
+Australia,Atif Siddiqui,30/03/2020,Processing,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,1.0,14500.0,18850.0,4350.0,4350.0
+Italia,Aditya Agarwal,30/03/2020,Delivered,USB Keyboard,Keyboard,Dell,800.0,1040.0,1.0,800.0,1040.0,240.0,240.0
+Japon,Firdoush Jabee,30/03/2020,Shipped,Wireless Mouse,Mouse,Samsung,600.0,780.0,1.0,600.0,780.0,180.0,180.0
+Japon,Jay Prakash Kumar,30/03/2020,Order,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,1.0,10500.0,13650.0,3150.0,3150.0
+Reino Unido,Ashish Pandey,30/03/2020,Processing,13 TB HDD,HDD,Western Digital,6500.0,8450.0,3.0,19500.0,25350.0,1950.0,5850.0
+Alemania,Ajay Sharma,30/03/2020,Delivered,268 GB SSD,SSD,Samsung,4500.0,5850.0,4.0,18000.0,23400.0,1350.0,5400.0
+Italia,Moinuddin Saifi,30/03/2020,Shipped,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,1.0,8500.0,11050.0,2550.0,2550.0
+Brasil,Ramkrishna Das Adhikary,30/03/2020,Order,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,4.0,50000.0,65000.0,3750.0,15000.0
+Mexico,Ranjeet Mandal,30/03/2020,Processing,20 GB DDR4 RAM,RAM,Hynix,3500.0,4550.0,3.0,10500.0,13650.0,1050.0,3150.0
+Australia,Ashwini Adsare,30/03/2020,Delivered,BTX motherboard,Motherboard,Gigabyte,4500.0,5850.0,1.0,4500.0,5850.0,1350.0,1350.0
+Japon,Rajesh Variya,30/03/2020,Shipped,15 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,1.0,2100.0,2730.0,630.0,630.0
+Mexico,Amit Singh,30/03/2020,Order,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,3.0,3450.0,4485.0,345.0,1035.0
+India,Vinod Mehta,30/03/2020,Processing,USB Mouse,Mouse,Samsung,350.0,455.0,1.0,350.0,455.0,105.0,105.0
+Japon,Jignesh Mhatre,30/03/2020,Delivered,"19"" LED Display",Monitor,Dell,9500.0,12350.0,1.0,9500.0,12350.0,2850.0,2850.0
+Colombia,Rahul Kashyap,30/03/2020,Shipped,14 TB HDD,HDD,Western Digital,10000.0,13000.0,2.0,20000.0,26000.0,3000.0,6000.0
+Colombia,Mohammed Abdul Kaleem,30/03/2020,Order,524 GB M.2,SSD,Samsung,6500.0,8450.0,1.0,6500.0,8450.0,1950.0,1950.0
+Italia,Chandrakant Kasbe,30/03/2020,Processing,RYZEN 3rd gen. 3512,CPU,Intel,8500.0,11050.0,1.0,8500.0,11050.0,2550.0,2550.0
+India,Rohan Kale,30/03/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,3.0,21000.0,27300.0,2100.0,6300.0
+E.E.U.U,Aniruddha Kekapure,30/03/2020,Shipped,28 GB DDR4 RAM,RAM,Hynix,6550.0,8515.0,3.0,19650.0,25545.0,1965.0,5895.0
+Australia,Aslam Raza,30/03/2020,Order,Standard ATX motherboard,Motherboard,Gigabyte,7650.0,9945.0,3.0,22950.0,29835.0,2295.0,6885.0
+E.E.U.U,Roshan Zameer,30/03/2020,Processing,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,4.0,4600.0,5980.0,345.0,1380.0
+Brasil,Rakesh Kumar Sharma,30/03/2020,Delivered,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,3.0,2550.0,3315.0,255.0,765.0
+Colombia,Shivanand Sahani,30/03/2020,Shipped,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,4.0,2600.0,3380.0,195.0,780.0
+India,Kunal Patra,30/03/2020,Order,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,1.0,7500.0,9750.0,2250.0,2250.0
+Alemania,Bijendra,30/03/2020,Processing,14 TB HDD,HDD,Seagate,10000.0,13000.0,4.0,40000.0,52000.0,3000.0,12000.0
+Colombia,Kranti Bheke,30/03/2020,Delivered,13 TB SSD,SSD,Samsung,10500.0,13650.0,3.0,31500.0,40950.0,3150.0,9450.0
+Francia,Jagdeep,30/03/2020,Shipped,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Japon,Adhir Samal,30/03/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+Reino Unido,Dannana Jhammi,30/03/2020,Processing,16 GB DDR4 Ram,RAM,Hynix,1680.0,2184.0,1.0,1680.0,2184.0,504.0,504.0
+Mexico,Vipin Kumar,30/03/2020,Delivered,Micro ATX motherboard,Motherboard,MSI,6540.0,8502.0,4.0,26160.0,34008.0,1962.0,7848.0
+Italia,Ranjeet Kumar,30/03/2020,Shipped,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,4.0,10720.0,13936.0,804.0,3216.0
+Colombia,Sajal Singhal,30/03/2020,Order,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,2.0,16500.0,21450.0,2475.0,4950.0
+India,Akhilesh Kumar,30/03/2020,Processing,20 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,3.0,7950.0,10335.0,795.0,2385.0
+Francia,Suvankar Chakraborty,30/03/2020,Delivered,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,4.0,50200.0,65260.0,3765.0,15060.0
+Reino Unido,Suvankar Adhikary,30/03/2020,Shipped,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,3.0,43500.0,56550.0,4350.0,13050.0
+Italia,Rahul Kumar Prajapati,30/03/2020,Order,USB Keyboard,Keyboard,Dell,800.0,1040.0,1.0,800.0,1040.0,240.0,240.0
+Alemania,Sagar Jeur,30/03/2020,Processing,Wireless Mouse,Mouse,Samsung,600.0,780.0,4.0,2400.0,3120.0,180.0,720.0
+India,Rhushikesh Mane,30/03/2020,Delivered,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,2.0,21000.0,27300.0,3150.0,6300.0
+Australia,Ashish Kumar,30/03/2020,Shipped,14 TB HDD,HDD,Western Digital,6500.0,8450.0,2.0,13000.0,16900.0,1950.0,3900.0
+Reino Unido,Javed Akhter,30/03/2020,Order,269 GB SSD,SSD,Samsung,4500.0,5850.0,1.0,4500.0,5850.0,1350.0,1350.0
+Japon,Haridas Balraj,30/03/2020,Processing,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,2.0,17000.0,22100.0,2550.0,5100.0
+Francia,Kundan Kumar,30/03/2020,Delivered,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,2.0,25000.0,32500.0,3750.0,7500.0
+Brasil,Atif Siddiqui,30/03/2020,Shipped,21 GB DDR4 RAM,Computer Case,Hynix,3500.0,4550.0,4.0,14000.0,18200.0,1050.0,4200.0
+Japon,Aditya Agarwal,30/03/2020,Order,BTX motherboard,Mouse,Gigabyte,4500.0,5850.0,2.0,9000.0,11700.0,1350.0,2700.0
+Francia,Firdoush Jabee,30/03/2020,Processing,16 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,3.0,6300.0,8190.0,630.0,1890.0
+E.E.U.U,Jay Prakash Kumar,30/03/2020,Delivered,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,3.0,3450.0,4485.0,345.0,1035.0
+Reino Unido,Ashish Pandey,30/03/2020,Shipped,USB Mouse,Mouse,Samsung,350.0,455.0,1.0,350.0,455.0,105.0,105.0
+Reino Unido,Ajay Sharma,30/03/2020,Order,"19"" LED Display",Monitor,Dell,9500.0,12350.0,3.0,28500.0,37050.0,2850.0,8550.0
+Italia,Moinuddin Saifi,30/03/2020,Processing,15 TB HDD,HDD,Western Digital,10000.0,13000.0,4.0,40000.0,52000.0,3000.0,12000.0
+Colombia,Ramkrishna Das Adhikary,30/03/2020,Delivered,525 GB M.2,SSD,Samsung,6500.0,8450.0,4.0,26000.0,33800.0,1950.0,7800.0
+Francia,Ranjeet Mandal,30/03/2020,Shipped,RYZEN 3rd gen. 3513,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Mexico,Ashwini Adsare,30/03/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,1.0,7000.0,9100.0,2100.0,2100.0
+China,Rajesh Variya,30/03/2020,Processing,29 GB DDR4 RAM,Computer Case,Hynix,6550.0,8515.0,4.0,26200.0,34060.0,1965.0,7860.0
+Australia,Amit Singh,30/03/2020,Delivered,Standard ATX motherboard,Mouse,Gigabyte,7650.0,9945.0,3.0,22950.0,29835.0,2295.0,6885.0
+India,Vinod Mehta,30/03/2020,Shipped,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,2.0,2300.0,2990.0,345.0,690.0
+E.E.U.U,Jignesh Mhatre,30/03/2020,Order,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,2.0,1700.0,2210.0,255.0,510.0
+Italia,Rahul Kashyap,30/03/2020,Processing,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,1.0,650.0,845.0,195.0,195.0
+Colombia,Mohammed Abdul Kaleem,30/03/2020,Delivered,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,1.0,7500.0,9750.0,2250.0,2250.0
+India,Chandrakant Kasbe,30/03/2020,Shipped,15 TB HDD,HDD,Seagate,10000.0,13000.0,2.0,20000.0,26000.0,3000.0,6000.0
+Japon,Rohan Kale,30/03/2020,Order,14 TB SSD,SSD,Samsung,10500.0,13650.0,3.0,31500.0,40950.0,3150.0,9450.0
+E.E.U.U,Aniruddha Kekapure,30/03/2020,Processing,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+India,Aslam Raza,30/03/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+Australia,Roshan Zameer,30/03/2020,Shipped,17 GB DDR4 Ram,Computer Case,Hynix,1680.0,2184.0,3.0,5040.0,6552.0,504.0,1512.0
+Brasil,Rakesh Kumar Sharma,30/03/2020,Order,Micro ATX motherboard,Mouse,MSI,6540.0,8502.0,1.0,6540.0,8502.0,1962.0,1962.0
+Reino Unido,Shivanand Sahani,30/03/2020,Processing,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,2.0,5360.0,6968.0,804.0,1608.0
+India,Kunal Patra,30/03/2020,Delivered,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,3.0,24750.0,32175.0,2475.0,7425.0
+Australia,Bijendra,30/03/2020,Shipped,21 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,3.0,7950.0,10335.0,795.0,2385.0
+Colombia,Kranti Bheke,30/03/2020,Order,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,4.0,50200.0,65260.0,3765.0,15060.0
+E.E.U.U,Jagdeep,30/03/2020,Processing,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,4.0,58000.0,75400.0,4350.0,17400.0
+E.E.U.U,Adhir Samal,30/03/2020,Delivered,USB Keyboard,Keyboard,Dell,800.0,1040.0,2.0,1600.0,2080.0,240.0,480.0
+Italia,Dannana Jhammi,30/03/2020,Shipped,Wireless Mouse,Mouse,Samsung,600.0,780.0,3.0,1800.0,2340.0,180.0,540.0
+Italia,Vipin Kumar,30/03/2020,Order,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,3.0,31500.0,40950.0,3150.0,9450.0
+Mexico,Ranjeet Kumar,30/03/2020,Processing,15 TB HDD,HDD,Western Digital,6500.0,8450.0,2.0,13000.0,16900.0,1950.0,3900.0
+India,Sajal Singhal,30/03/2020,Delivered,270 GB SSD,SSD,Samsung,4500.0,5850.0,3.0,13500.0,17550.0,1350.0,4050.0
+Australia,Akhilesh Kumar,30/03/2020,Shipped,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+Brasil,Suvankar Chakraborty,30/03/2020,Order,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,1.0,12500.0,16250.0,3750.0,3750.0
+Alemania,Suvankar Adhikary,30/03/2020,Processing,22 GB DDR4 RAM,NIC,Hynix,3500.0,4550.0,4.0,14000.0,18200.0,1050.0,4200.0
+Brasil,Rahul Kumar Prajapati,30/03/2020,Delivered,BTX motherboard,Printer,Gigabyte,4500.0,5850.0,4.0,18000.0,23400.0,1350.0,5400.0
+Colombia,Sagar Jeur,30/03/2020,Shipped,17 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,3.0,6300.0,8190.0,630.0,1890.0
+Reino Unido,Rhushikesh Mane,30/03/2020,Order,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,2.0,2300.0,2990.0,345.0,690.0
+Mexico,Ashish Kumar,30/03/2020,Processing,USB Mouse,Mouse,Samsung,350.0,455.0,3.0,1050.0,1365.0,105.0,315.0
+Colombia,Javed Akhter,30/03/2020,Delivered,"19"" LED Display",Monitor,Dell,9500.0,12350.0,1.0,9500.0,12350.0,2850.0,2850.0
+Alemania,Haridas Balraj,30/03/2020,Shipped,16 TB HDD,HDD,Western Digital,10000.0,13000.0,2.0,20000.0,26000.0,3000.0,6000.0
+Australia,Kundan Kumar,30/03/2020,Order,526 GB M.2,SSD,Samsung,6500.0,8450.0,2.0,13000.0,16900.0,1950.0,3900.0
+India,Atif Siddiqui,30/03/2020,Processing,RYZEN 3rd gen. 3514,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+Francia,Aditya Agarwal,31/03/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,1.0,7000.0,9100.0,2100.0,2100.0
+Francia,Firdoush Jabee,31/03/2020,Shipped,30 GB DDR4 RAM,NIC,Hynix,6550.0,8515.0,4.0,26200.0,34060.0,1965.0,7860.0
+E.E.U.U,Jay Prakash Kumar,31/03/2020,Order,Standard ATX motherboard,Printer,Gigabyte,7650.0,9945.0,3.0,22950.0,29835.0,2295.0,6885.0
+Francia,Ashish Pandey,31/03/2020,Processing,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,4.0,4600.0,5980.0,345.0,1380.0
+China,Ajay Sharma,31/03/2020,Delivered,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,4.0,3400.0,4420.0,255.0,1020.0
+E.E.U.U,Moinuddin Saifi,31/03/2020,Shipped,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,4.0,2600.0,3380.0,195.0,780.0
+Colombia,Ramkrishna Das Adhikary,31/03/2020,Order,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,2.0,15000.0,19500.0,2250.0,4500.0
+E.E.U.U,Ranjeet Mandal,31/03/2020,Processing,16 TB HDD,HDD,Seagate,10000.0,13000.0,2.0,20000.0,26000.0,3000.0,6000.0
+Japon,Ashwini Adsare,31/03/2020,Delivered,15 TB SSD,SSD,Samsung,10500.0,13650.0,1.0,10500.0,13650.0,3150.0,3150.0
+Australia,Rajesh Variya,31/03/2020,Shipped,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+China,Amit Singh,31/03/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,3.0,21000.0,27300.0,2100.0,6300.0
+E.E.U.U,Vinod Mehta,31/03/2020,Processing,18 GB DDR4 Ram,NIC,Hynix,1680.0,2184.0,2.0,3360.0,4368.0,504.0,1008.0
+E.E.U.U,Jignesh Mhatre,31/03/2020,Delivered,Micro ATX motherboard,Printer,MSI,6540.0,8502.0,3.0,19620.0,25506.0,1962.0,5886.0
+India,Rahul Kashyap,31/03/2020,Shipped,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,2.0,5360.0,6968.0,804.0,1608.0
+Brasil,Mohammed Abdul Kaleem,31/03/2020,Order,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,4.0,33000.0,42900.0,2475.0,9900.0
+Alemania,Chandrakant Kasbe,31/03/2020,Processing,22 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,4.0,10600.0,13780.0,795.0,3180.0
+Mexico,Rohan Kale,31/03/2020,Delivered,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,2.0,25100.0,32630.0,3765.0,7530.0
+Alemania,Aniruddha Kekapure,31/03/2020,Shipped,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,1.0,14500.0,18850.0,4350.0,4350.0
+Italia,Aslam Raza,31/03/2020,Order,USB Keyboard,Keyboard,Dell,800.0,1040.0,2.0,1600.0,2080.0,240.0,480.0
+Francia,Roshan Zameer,31/03/2020,Processing,Wireless Mouse,Mouse,Samsung,600.0,780.0,3.0,1800.0,2340.0,180.0,540.0
+Brasil,Rakesh Kumar Sharma,31/03/2020,Delivered,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,1.0,10500.0,13650.0,3150.0,3150.0
+Brasil,Shivanand Sahani,31/03/2020,Shipped,16 TB HDD,HDD,Western Digital,6500.0,8450.0,2.0,13000.0,16900.0,1950.0,3900.0
+Italia,Kunal Patra,31/03/2020,Order,271 GB SSD,SSD,Samsung,4500.0,5850.0,4.0,18000.0,23400.0,1350.0,5400.0
+Colombia,Bijendra,31/03/2020,Processing,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,1.0,8500.0,11050.0,2550.0,2550.0
+E.E.U.U,Kranti Bheke,31/03/2020,Delivered,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,3.0,37500.0,48750.0,3750.0,11250.0
+China,Jagdeep,31/03/2020,Shipped,23 GB DDR4 RAM,RAM,Hynix,3500.0,4550.0,1.0,3500.0,4550.0,1050.0,1050.0
+Mexico,Adhir Samal,31/03/2020,Order,BTX motherboard,Motherboard,Gigabyte,4500.0,5850.0,2.0,9000.0,11700.0,1350.0,2700.0
+Francia,Dannana Jhammi,31/03/2020,Processing,18 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,4.0,8400.0,10920.0,630.0,2520.0
+Australia,Vipin Kumar,31/03/2020,Delivered,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,3.0,3450.0,4485.0,345.0,1035.0
+E.E.U.U,Ranjeet Kumar,31/03/2020,Shipped,USB Mouse,Mouse,Samsung,350.0,455.0,4.0,1400.0,1820.0,105.0,420.0
+Australia,Sajal Singhal,31/03/2020,Order,"19"" LED Display",Monitor,Dell,9500.0,12350.0,1.0,9500.0,12350.0,2850.0,2850.0
+China,Akhilesh Kumar,31/03/2020,Processing,17 TB HDD,HDD,Western Digital,10000.0,13000.0,2.0,20000.0,26000.0,3000.0,6000.0
+Francia,Suvankar Chakraborty,31/03/2020,Delivered,527 GB M.2,SSD,Samsung,6500.0,8450.0,3.0,19500.0,25350.0,1950.0,5850.0
+Japon,Suvankar Adhikary,31/03/2020,Shipped,RYZEN 3rd gen. 3515,CPU,Intel,8500.0,11050.0,1.0,8500.0,11050.0,2550.0,2550.0
+Francia,Rahul Kumar Prajapati,31/03/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,3.0,21000.0,27300.0,2100.0,6300.0
+Francia,Sagar Jeur,31/03/2020,Processing,31 GB DDR4 RAM,RAM,Hynix,6550.0,8515.0,3.0,19650.0,25545.0,1965.0,5895.0
+Italia,Rhushikesh Mane,31/03/2020,Delivered,Standard ATX motherboard,Motherboard,Gigabyte,7650.0,9945.0,4.0,30600.0,39780.0,2295.0,9180.0
+Colombia,Ashish Kumar,31/03/2020,Shipped,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,4.0,4600.0,5980.0,345.0,1380.0
+Italia,Javed Akhter,31/03/2020,Order,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,3.0,2550.0,3315.0,255.0,765.0
+Brasil,Haridas Balraj,31/03/2020,Processing,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,1.0,650.0,845.0,195.0,195.0
+E.E.U.U,Kundan Kumar,31/03/2020,Delivered,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,2.0,15000.0,19500.0,2250.0,4500.0
+China,Atif Siddiqui,31/03/2020,Shipped,17 TB HDD,HDD,Seagate,10000.0,13000.0,1.0,10000.0,13000.0,3000.0,3000.0
+E.E.U.U,Aditya Agarwal,31/03/2020,Order,16 TB SSD,SSD,Samsung,10500.0,13650.0,3.0,31500.0,40950.0,3150.0,9450.0
+Brasil,Firdoush Jabee,31/03/2020,Processing,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,2.0,17000.0,22100.0,2550.0,5100.0
+India,Jay Prakash Kumar,31/03/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,2.0,14000.0,18200.0,2100.0,4200.0
+Reino Unido,Ashish Pandey,31/03/2020,Shipped,19 GB DDR4 Ram,RAM,Hynix,1680.0,2184.0,2.0,3360.0,4368.0,504.0,1008.0
+Brasil,Ajay Sharma,31/03/2020,Order,Micro ATX motherboard,Motherboard,MSI,6540.0,8502.0,4.0,26160.0,34008.0,1962.0,7848.0
+Francia,Moinuddin Saifi,31/03/2020,Processing,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,4.0,10720.0,13936.0,804.0,3216.0
+Colombia,Ramkrishna Das Adhikary,31/03/2020,Delivered,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,2.0,16500.0,21450.0,2475.0,4950.0
+Mexico,Ranjeet Mandal,31/03/2020,Shipped,23 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,2.0,5300.0,6890.0,795.0,1590.0
+Mexico,Ashwini Adsare,31/03/2020,Order,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,2.0,25100.0,32630.0,3765.0,7530.0
+Francia,Rajesh Variya,31/03/2020,Processing,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,3.0,43500.0,56550.0,4350.0,13050.0
+Colombia,Amit Singh,31/03/2020,Delivered,USB Keyboard,Keyboard,Dell,800.0,1040.0,1.0,800.0,1040.0,240.0,240.0
+E.E.U.U,Vinod Mehta,31/03/2020,Shipped,Wireless Mouse,Mouse,Samsung,600.0,780.0,3.0,1800.0,2340.0,180.0,540.0
+Australia,Jignesh Mhatre,31/03/2020,Order,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,2.0,21000.0,27300.0,3150.0,6300.0
+E.E.U.U,Rahul Kashyap,31/03/2020,Processing,17 TB HDD,HDD,Western Digital,6500.0,8450.0,2.0,13000.0,16900.0,1950.0,3900.0
+Alemania,Mohammed Abdul Kaleem,31/03/2020,Delivered,272 GB SSD,SSD,Samsung,4500.0,5850.0,2.0,9000.0,11700.0,1350.0,2700.0
+Australia,Chandrakant Kasbe,31/03/2020,Shipped,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Italia,Rohan Kale,31/03/2020,Order,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,2.0,25000.0,32500.0,3750.0,7500.0
+Mexico,Aniruddha Kekapure,31/03/2020,Processing,24 GB DDR4 RAM,Computer Case,Hynix,3500.0,4550.0,1.0,3500.0,4550.0,1050.0,1050.0
+Mexico,Aslam Raza,31/03/2020,Delivered,BTX motherboard,Mouse,Gigabyte,4500.0,5850.0,1.0,4500.0,5850.0,1350.0,1350.0
+Alemania,Roshan Zameer,31/03/2020,Shipped,19 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,3.0,6300.0,8190.0,630.0,1890.0
+Mexico,Rakesh Kumar Sharma,31/03/2020,Order,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,4.0,4600.0,5980.0,345.0,1380.0
+Colombia,Shivanand Sahani,31/03/2020,Processing,USB Mouse,Mouse,Samsung,350.0,455.0,4.0,1400.0,1820.0,105.0,420.0
+Japon,Kunal Patra,01/04/2020,Delivered,"19"" LED Display",Monitor,Dell,9500.0,12350.0,3.0,28500.0,37050.0,2850.0,8550.0
+Francia,Bijendra,02/04/2020,Shipped,18 TB HDD,HDD,Western Digital,10000.0,13000.0,1.0,10000.0,13000.0,3000.0,3000.0
+Italia,Kranti Bheke,03/04/2020,Order,528 GB M.2,SSD,Samsung,6500.0,8450.0,4.0,26000.0,33800.0,1950.0,7800.0
+Australia,Jagdeep,03/04/2020,Processing,RYZEN 3rd gen. 3516,CPU,Intel,8500.0,11050.0,2.0,17000.0,22100.0,2550.0,5100.0
+Colombia,Adhir Samal,03/04/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,3.0,21000.0,27300.0,2100.0,6300.0
+Brasil,Dannana Jhammi,03/04/2020,Shipped,32 GB DDR4 RAM,Computer Case,Hynix,6550.0,8515.0,2.0,13100.0,17030.0,1965.0,3930.0
+Colombia,Vipin Kumar,03/04/2020,Order,Standard ATX motherboard,Mouse,Gigabyte,7650.0,9945.0,4.0,30600.0,39780.0,2295.0,9180.0
+Colombia,Ranjeet Kumar,03/04/2020,Processing,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,4.0,4600.0,5980.0,345.0,1380.0
+China,Sajal Singhal,03/04/2020,Delivered,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,1.0,850.0,1105.0,255.0,255.0
+Italia,Akhilesh Kumar,03/04/2020,Shipped,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,4.0,2600.0,3380.0,195.0,780.0
+Mexico,Suvankar Chakraborty,03/04/2020,Order,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,2.0,15000.0,19500.0,2250.0,4500.0
+E.E.U.U,Suvankar Adhikary,03/04/2020,Processing,18 TB HDD,HDD,Seagate,10000.0,13000.0,2.0,20000.0,26000.0,3000.0,6000.0
+Alemania,Rahul Kumar Prajapati,03/04/2020,Delivered,17 TB SSD,SSD,Samsung,10500.0,13650.0,3.0,31500.0,40950.0,3150.0,9450.0
+E.E.U.U,Sagar Jeur,03/04/2020,Shipped,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Reino Unido,Rhushikesh Mane,03/04/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+China,Ashish Kumar,03/04/2020,Processing,20 GB DDR4 Ram,Computer Case,Hynix,1680.0,2184.0,2.0,3360.0,4368.0,504.0,1008.0
+Australia,Javed Akhter,03/04/2020,Delivered,Micro ATX motherboard,Mouse,MSI,6540.0,8502.0,1.0,6540.0,8502.0,1962.0,1962.0
+China,Haridas Balraj,03/04/2020,Shipped,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,4.0,10720.0,13936.0,804.0,3216.0
+Reino Unido,Kundan Kumar,03/04/2020,Order,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,1.0,8250.0,10725.0,2475.0,2475.0
+E.E.U.U,Atif Siddiqui,03/04/2020,Processing,24 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,1.0,2650.0,3445.0,795.0,795.0
+China,Aditya Agarwal,03/04/2020,Delivered,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,1.0,12550.0,16315.0,3765.0,3765.0
+Francia,Firdoush Jabee,03/04/2020,Shipped,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,2.0,29000.0,37700.0,4350.0,8700.0
+Mexico,Jay Prakash Kumar,03/04/2020,Order,USB Keyboard,Keyboard,Dell,800.0,1040.0,3.0,2400.0,3120.0,240.0,720.0
+Colombia,Ashish Pandey,03/04/2020,Processing,Wireless Mouse,Mouse,Samsung,600.0,780.0,1.0,600.0,780.0,180.0,180.0
+E.E.U.U,Ajay Sharma,03/04/2020,Delivered,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,1.0,10500.0,13650.0,3150.0,3150.0
+India,Moinuddin Saifi,03/04/2020,Shipped,18 TB HDD,HDD,Western Digital,6500.0,8450.0,2.0,13000.0,16900.0,1950.0,3900.0
+Japon,Ramkrishna Das Adhikary,03/04/2020,Order,273 GB SSD,SSD,Samsung,4500.0,5850.0,2.0,9000.0,11700.0,1350.0,2700.0
+India,Ranjeet Mandal,03/04/2020,Processing,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,2.0,17000.0,22100.0,2550.0,5100.0
+Australia,Ashwini Adsare,03/04/2020,Delivered,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,1.0,12500.0,16250.0,3750.0,3750.0
+Japon,Rajesh Variya,03/04/2020,Shipped,25 GB DDR4 RAM,NIC,Hynix,3500.0,4550.0,2.0,7000.0,9100.0,1050.0,2100.0
+Alemania,Amit Singh,03/04/2020,Order,BTX motherboard,Printer,Gigabyte,4500.0,5850.0,1.0,4500.0,5850.0,1350.0,1350.0
+Brasil,Vinod Mehta,03/04/2020,Processing,20 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,2.0,4200.0,5460.0,630.0,1260.0
+Francia,Jignesh Mhatre,03/04/2020,Delivered,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,1.0,1150.0,1495.0,345.0,345.0
+Colombia,Rahul Kashyap,03/04/2020,Shipped,USB Mouse,Mouse,Samsung,350.0,455.0,4.0,1400.0,1820.0,105.0,420.0
+E.E.U.U,Mohammed Abdul Kaleem,03/04/2020,Order,"19"" LED Display",Monitor,Dell,9500.0,12350.0,1.0,9500.0,12350.0,2850.0,2850.0
+Francia,Chandrakant Kasbe,03/04/2020,Processing,19 TB HDD,HDD,Western Digital,10000.0,13000.0,2.0,20000.0,26000.0,3000.0,6000.0
+Brasil,Rohan Kale,03/04/2020,Delivered,529 GB M.2,SSD,Samsung,6500.0,8450.0,1.0,6500.0,8450.0,1950.0,1950.0
+Francia,Aniruddha Kekapure,03/04/2020,Shipped,RYZEN 3rd gen. 3517,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+China,Aslam Raza,03/04/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,2.0,14000.0,18200.0,2100.0,4200.0
+E.E.U.U,Roshan Zameer,03/04/2020,Processing,33 GB DDR4 RAM,NIC,Hynix,6550.0,8515.0,2.0,13100.0,17030.0,1965.0,3930.0
+India,Rakesh Kumar Sharma,03/04/2020,Delivered,Standard ATX motherboard,Printer,Gigabyte,7650.0,9945.0,2.0,15300.0,19890.0,2295.0,4590.0
+India,Shivanand Sahani,03/04/2020,Shipped,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,1.0,1150.0,1495.0,345.0,345.0
+Francia,Kunal Patra,03/04/2020,Order,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,4.0,3400.0,4420.0,255.0,1020.0
+Italia,Bijendra,03/04/2020,Processing,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,1.0,650.0,845.0,195.0,195.0
+Colombia,Kranti Bheke,03/04/2020,Delivered,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,3.0,22500.0,29250.0,2250.0,6750.0
+Brasil,Jagdeep,03/04/2020,Shipped,19 TB HDD,HDD,Seagate,10000.0,13000.0,3.0,30000.0,39000.0,3000.0,9000.0
+Australia,Adhir Samal,03/04/2020,Order,18 TB SSD,SSD,Samsung,10500.0,13650.0,4.0,42000.0,54600.0,3150.0,12600.0
+Alemania,Dannana Jhammi,03/04/2020,Processing,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,1.0,8500.0,11050.0,2550.0,2550.0
+Colombia,Vipin Kumar,03/04/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,2.0,14000.0,18200.0,2100.0,4200.0
+Francia,Ranjeet Kumar,03/04/2020,Shipped,21 GB DDR4 Ram,NIC,Hynix,1680.0,2184.0,1.0,1680.0,2184.0,504.0,504.0
+Francia,Sajal Singhal,03/04/2020,Order,Micro ATX motherboard,Printer,MSI,6540.0,8502.0,4.0,26160.0,34008.0,1962.0,7848.0
+Australia,Akhilesh Kumar,03/04/2020,Processing,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,4.0,10720.0,13936.0,804.0,3216.0
+Colombia,Suvankar Chakraborty,03/04/2020,Delivered,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,1.0,8250.0,10725.0,2475.0,2475.0
+Mexico,Suvankar Adhikary,03/04/2020,Shipped,25 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,1.0,2650.0,3445.0,795.0,795.0
+Francia,Rahul Kumar Prajapati,03/04/2020,Order,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,1.0,12550.0,16315.0,3765.0,3765.0
+Australia,Sagar Jeur,03/04/2020,Processing,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,2.0,29000.0,37700.0,4350.0,8700.0
+Italia,Rhushikesh Mane,03/04/2020,Delivered,USB Keyboard,Keyboard,Dell,800.0,1040.0,2.0,1600.0,2080.0,240.0,480.0
+Alemania,Ashish Kumar,03/04/2020,Shipped,Wireless Mouse,Mouse,Samsung,600.0,780.0,4.0,2400.0,3120.0,180.0,720.0
+Australia,Javed Akhter,03/04/2020,Order,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,2.0,21000.0,27300.0,3150.0,6300.0
+Mexico,Haridas Balraj,03/04/2020,Processing,19 TB HDD,HDD,Western Digital,6500.0,8450.0,2.0,13000.0,16900.0,1950.0,3900.0
+Australia,Kundan Kumar,03/04/2020,Delivered,274 GB SSD,SSD,Samsung,4500.0,5850.0,3.0,13500.0,17550.0,1350.0,4050.0
+Colombia,Atif Siddiqui,03/04/2020,Shipped,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,1.0,8500.0,11050.0,2550.0,2550.0
+Australia,Aditya Agarwal,03/04/2020,Order,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,1.0,12500.0,16250.0,3750.0,3750.0
+Japon,Firdoush Jabee,03/04/2020,Processing,26 GB DDR4 RAM,RAM,Hynix,3500.0,4550.0,3.0,10500.0,13650.0,1050.0,3150.0
+China,Jay Prakash Kumar,03/04/2020,Delivered,BTX motherboard,Motherboard,Gigabyte,4500.0,5850.0,1.0,4500.0,5850.0,1350.0,1350.0
+China,Ashish Pandey,03/04/2020,Shipped,21 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,1.0,2100.0,2730.0,630.0,630.0
+Australia,Ajay Sharma,03/04/2020,Order,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,4.0,4600.0,5980.0,345.0,1380.0
+E.E.U.U,Moinuddin Saifi,03/04/2020,Processing,USB Mouse,Mouse,Samsung,350.0,455.0,3.0,1050.0,1365.0,105.0,315.0
+India,Ramkrishna Das Adhikary,03/04/2020,Delivered,"19"" LED Display",Monitor,Dell,9500.0,12350.0,1.0,9500.0,12350.0,2850.0,2850.0
+India,Ranjeet Mandal,03/04/2020,Shipped,20 TB HDD,HDD,Western Digital,10000.0,13000.0,3.0,30000.0,39000.0,3000.0,9000.0
+Japon,Ashwini Adsare,03/04/2020,Order,530 GB M.2,SSD,Samsung,6500.0,8450.0,2.0,13000.0,16900.0,1950.0,3900.0
+Australia,Rajesh Variya,03/04/2020,Processing,RYZEN 3rd gen. 3518,CPU,Intel,8500.0,11050.0,2.0,17000.0,22100.0,2550.0,5100.0
+Reino Unido,Amit Singh,03/04/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,2.0,14000.0,18200.0,2100.0,4200.0
+India,Vinod Mehta,03/04/2020,Shipped,34 GB DDR4 RAM,RAM,Hynix,6550.0,8515.0,2.0,13100.0,17030.0,1965.0,3930.0
+Francia,Jignesh Mhatre,03/04/2020,Order,Standard ATX motherboard,Motherboard,Gigabyte,7650.0,9945.0,1.0,7650.0,9945.0,2295.0,2295.0
+Mexico,Rahul Kashyap,03/04/2020,Processing,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,2.0,2300.0,2990.0,345.0,690.0
+Reino Unido,Mohammed Abdul Kaleem,03/04/2020,Delivered,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,4.0,3400.0,4420.0,255.0,1020.0
+E.E.U.U,Chandrakant Kasbe,03/04/2020,Shipped,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,4.0,2600.0,3380.0,195.0,780.0
+E.E.U.U,Rohan Kale,03/04/2020,Order,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,2.0,15000.0,19500.0,2250.0,4500.0
+Brasil,Aniruddha Kekapure,03/04/2020,Processing,20 TB HDD,HDD,Seagate,10000.0,13000.0,1.0,10000.0,13000.0,3000.0,3000.0
+Italia,Aslam Raza,03/04/2020,Delivered,19 TB SSD,SSD,Samsung,10500.0,13650.0,2.0,21000.0,27300.0,3150.0,6300.0
+Italia,Roshan Zameer,03/04/2020,Shipped,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Australia,Rakesh Kumar Sharma,03/04/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+Australia,Shivanand Sahani,03/04/2020,Processing,22 GB DDR4 Ram,RAM,Hynix,1680.0,2184.0,3.0,5040.0,6552.0,504.0,1512.0
+Italia,Kunal Patra,03/04/2020,Delivered,Micro ATX motherboard,Motherboard,MSI,6540.0,8502.0,4.0,26160.0,34008.0,1962.0,7848.0
+E.E.U.U,Bijendra,03/04/2020,Shipped,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,3.0,8040.0,10452.0,804.0,2412.0
+China,Kranti Bheke,03/04/2020,Order,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,2.0,16500.0,21450.0,2475.0,4950.0
+Brasil,Jagdeep,03/04/2020,Processing,26 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,4.0,10600.0,13780.0,795.0,3180.0
+Alemania,Adhir Samal,03/04/2020,Delivered,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,1.0,12550.0,16315.0,3765.0,3765.0
+India,Dannana Jhammi,03/04/2020,Shipped,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,2.0,29000.0,37700.0,4350.0,8700.0
+China,Vipin Kumar,03/04/2020,Order,USB Keyboard,Keyboard,Dell,800.0,1040.0,4.0,3200.0,4160.0,240.0,960.0
+Reino Unido,Ranjeet Kumar,03/04/2020,Processing,Wireless Mouse,Mouse,Samsung,600.0,780.0,4.0,2400.0,3120.0,180.0,720.0
+Japon,Sajal Singhal,03/04/2020,Delivered,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,2.0,21000.0,27300.0,3150.0,6300.0
+Brasil,Akhilesh Kumar,03/04/2020,Shipped,20 TB HDD,HDD,Western Digital,6500.0,8450.0,3.0,19500.0,25350.0,1950.0,5850.0
+China,Suvankar Chakraborty,03/04/2020,Order,275 GB SSD,SSD,Samsung,4500.0,5850.0,2.0,9000.0,11700.0,1350.0,2700.0
+Brasil,Suvankar Adhikary,03/04/2020,Processing,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+Brasil,Rahul Kumar Prajapati,03/04/2020,Delivered,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,2.0,25000.0,32500.0,3750.0,7500.0
+Alemania,Sagar Jeur,03/04/2020,Shipped,27 GB DDR4 RAM,Computer Case,Hynix,3500.0,4550.0,3.0,10500.0,13650.0,1050.0,3150.0
+Alemania,Rhushikesh Mane,03/04/2020,Order,BTX motherboard,Mouse,Gigabyte,4500.0,5850.0,1.0,4500.0,5850.0,1350.0,1350.0
+Reino Unido,Ashish Kumar,03/04/2020,Processing,22 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,2.0,4200.0,5460.0,630.0,1260.0
+Japon,Javed Akhter,03/04/2020,Delivered,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,3.0,3450.0,4485.0,345.0,1035.0
+Brasil,Haridas Balraj,03/04/2020,Shipped,USB Mouse,Mouse,Samsung,350.0,455.0,1.0,350.0,455.0,105.0,105.0
+China,Kundan Kumar,03/04/2020,Order,"19"" LED Display",Monitor,Dell,9500.0,12350.0,2.0,19000.0,24700.0,2850.0,5700.0
+Alemania,Atif Siddiqui,03/04/2020,Processing,21 TB HDD,HDD,Western Digital,10000.0,13000.0,1.0,10000.0,13000.0,3000.0,3000.0
+Francia,Aditya Agarwal,03/04/2020,Delivered,531 GB M.2,SSD,Samsung,6500.0,8450.0,2.0,13000.0,16900.0,1950.0,3900.0
+Francia,Firdoush Jabee,03/04/2020,Shipped,RYZEN 3rd gen. 3519,CPU,Intel,8500.0,11050.0,2.0,17000.0,22100.0,2550.0,5100.0
+Mexico,Jay Prakash Kumar,03/04/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+Mexico,Ashish Pandey,03/04/2020,Processing,35 GB DDR4 RAM,Computer Case,Hynix,6550.0,8515.0,3.0,19650.0,25545.0,1965.0,5895.0
+Francia,Ajay Sharma,03/04/2020,Delivered,Standard ATX motherboard,Mouse,Gigabyte,7650.0,9945.0,2.0,15300.0,19890.0,2295.0,4590.0
+Reino Unido,Moinuddin Saifi,03/04/2020,Shipped,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,1.0,1150.0,1495.0,345.0,345.0
+Reino Unido,Ramkrishna Das Adhikary,03/04/2020,Order,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,3.0,2550.0,3315.0,255.0,765.0
+Mexico,Ranjeet Mandal,03/04/2020,Processing,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,3.0,1950.0,2535.0,195.0,585.0
+Alemania,Ashwini Adsare,03/04/2020,Delivered,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,3.0,22500.0,29250.0,2250.0,6750.0
+Japon,Rajesh Variya,03/04/2020,Shipped,21 TB HDD,HDD,Seagate,10000.0,13000.0,3.0,30000.0,39000.0,3000.0,9000.0
+Italia,Amit Singh,03/04/2020,Order,20 TB SSD,SSD,Samsung,10500.0,13650.0,3.0,31500.0,40950.0,3150.0,9450.0
+E.E.U.U,Vinod Mehta,03/04/2020,Processing,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+Japon,Jignesh Mhatre,03/04/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,2.0,14000.0,18200.0,2100.0,4200.0
+China,Rahul Kashyap,03/04/2020,Shipped,23 GB DDR4 Ram,Computer Case,Hynix,1680.0,2184.0,4.0,6720.0,8736.0,504.0,2016.0
+Japon,Mohammed Abdul Kaleem,03/04/2020,Order,Micro ATX motherboard,Mouse,MSI,6540.0,8502.0,3.0,19620.0,25506.0,1962.0,5886.0
+Australia,Chandrakant Kasbe,03/04/2020,Processing,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,4.0,10720.0,13936.0,804.0,3216.0
+Mexico,Rohan Kale,03/04/2020,Delivered,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,3.0,24750.0,32175.0,2475.0,7425.0
+Alemania,Aniruddha Kekapure,03/04/2020,Shipped,27 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,4.0,10600.0,13780.0,795.0,3180.0
+Japon,Aslam Raza,03/04/2020,Order,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,3.0,37650.0,48945.0,3765.0,11295.0
+India,Roshan Zameer,03/04/2020,Processing,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,4.0,58000.0,75400.0,4350.0,17400.0
+Alemania,Rakesh Kumar Sharma,03/04/2020,Delivered,USB Keyboard,Keyboard,Dell,800.0,1040.0,2.0,1600.0,2080.0,240.0,480.0
+Brasil,Shivanand Sahani,03/04/2020,Shipped,Wireless Mouse,Mouse,Samsung,600.0,780.0,3.0,1800.0,2340.0,180.0,540.0
+Italia,Kunal Patra,03/04/2020,Order,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,3.0,31500.0,40950.0,3150.0,9450.0
+Mexico,Bijendra,03/04/2020,Processing,21 TB HDD,HDD,Western Digital,6500.0,8450.0,3.0,19500.0,25350.0,1950.0,5850.0
+India,Kranti Bheke,03/04/2020,Delivered,276 GB SSD,SSD,Samsung,4500.0,5850.0,2.0,9000.0,11700.0,1350.0,2700.0
+Reino Unido,Jagdeep,03/04/2020,Shipped,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Italia,Adhir Samal,03/04/2020,Order,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,2.0,25000.0,32500.0,3750.0,7500.0
+Australia,Dannana Jhammi,03/04/2020,Processing,28 GB DDR4 RAM,NIC,Hynix,3500.0,4550.0,4.0,14000.0,18200.0,1050.0,4200.0
+Mexico,Vipin Kumar,03/04/2020,Delivered,BTX motherboard,Printer,Gigabyte,4500.0,5850.0,1.0,4500.0,5850.0,1350.0,1350.0
+Australia,Ranjeet Kumar,03/04/2020,Shipped,23 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,1.0,2100.0,2730.0,630.0,630.0
+Brasil,Sajal Singhal,03/04/2020,Order,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,3.0,3450.0,4485.0,345.0,1035.0
+E.E.U.U,Akhilesh Kumar,03/04/2020,Processing,USB Mouse,Mouse,Samsung,350.0,455.0,4.0,1400.0,1820.0,105.0,420.0
+China,Suvankar Chakraborty,03/04/2020,Delivered,"19"" LED Display",Monitor,Dell,9500.0,12350.0,1.0,9500.0,12350.0,2850.0,2850.0
+Francia,Suvankar Adhikary,03/04/2020,Shipped,22 TB HDD,HDD,Western Digital,10000.0,13000.0,2.0,20000.0,26000.0,3000.0,6000.0
+Brasil,Rahul Kumar Prajapati,03/04/2020,Order,532 GB M.2,SSD,Samsung,6500.0,8450.0,3.0,19500.0,25350.0,1950.0,5850.0
+India,Sagar Jeur,03/04/2020,Processing,RYZEN 3rd gen. 3520,CPU,Intel,8500.0,11050.0,1.0,8500.0,11050.0,2550.0,2550.0
+China,Rhushikesh Mane,03/04/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,1.0,7000.0,9100.0,2100.0,2100.0
+India,Ashish Kumar,03/04/2020,Shipped,36 GB DDR4 RAM,NIC,Hynix,6550.0,8515.0,2.0,13100.0,17030.0,1965.0,3930.0
+China,Javed Akhter,03/04/2020,Order,Standard ATX motherboard,Printer,Gigabyte,7650.0,9945.0,3.0,22950.0,29835.0,2295.0,6885.0
+Japon,Haridas Balraj,03/04/2020,Processing,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,4.0,4600.0,5980.0,345.0,1380.0
+Alemania,Kundan Kumar,03/04/2020,Delivered,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,2.0,1700.0,2210.0,255.0,510.0
+Australia,Atif Siddiqui,03/04/2020,Shipped,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,4.0,2600.0,3380.0,195.0,780.0
+Francia,Aditya Agarwal,03/04/2020,Order,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,2.0,15000.0,19500.0,2250.0,4500.0
+Alemania,Firdoush Jabee,03/04/2020,Processing,22 TB HDD,HDD,Seagate,10000.0,13000.0,4.0,40000.0,52000.0,3000.0,12000.0
+Australia,Jay Prakash Kumar,03/04/2020,Delivered,21 TB SSD,SSD,Samsung,10500.0,13650.0,2.0,21000.0,27300.0,3150.0,6300.0
+Francia,Ashish Pandey,03/04/2020,Shipped,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+Colombia,Ajay Sharma,03/04/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+Australia,Moinuddin Saifi,03/04/2020,Processing,24 GB DDR4 Ram,NIC,Hynix,1680.0,2184.0,2.0,3360.0,4368.0,504.0,1008.0
+E.E.U.U,Ramkrishna Das Adhikary,03/04/2020,Delivered,Micro ATX motherboard,Printer,MSI,6540.0,8502.0,2.0,13080.0,17004.0,1962.0,3924.0
+Italia,Ranjeet Mandal,03/04/2020,Shipped,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,1.0,2680.0,3484.0,804.0,804.0
+Reino Unido,Ashwini Adsare,03/04/2020,Order,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,2.0,16500.0,21450.0,2475.0,4950.0
+Colombia,Rajesh Variya,03/04/2020,Processing,28 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,1.0,2650.0,3445.0,795.0,795.0
+Francia,Amit Singh,03/04/2020,Delivered,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,3.0,37650.0,48945.0,3765.0,11295.0
+Alemania,Vinod Mehta,03/04/2020,Shipped,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,4.0,58000.0,75400.0,4350.0,17400.0
+China,Jignesh Mhatre,03/04/2020,Order,USB Keyboard,Keyboard,Dell,800.0,1040.0,1.0,800.0,1040.0,240.0,240.0
+E.E.U.U,Rahul Kashyap,03/04/2020,Processing,Wireless Mouse,Mouse,Samsung,600.0,780.0,3.0,1800.0,2340.0,180.0,540.0
+Brasil,Mohammed Abdul Kaleem,03/04/2020,Delivered,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,2.0,21000.0,27300.0,3150.0,6300.0
+Japon,Chandrakant Kasbe,03/04/2020,Shipped,22 TB HDD,HDD,Western Digital,6500.0,8450.0,2.0,13000.0,16900.0,1950.0,3900.0
+Brasil,Rohan Kale,03/04/2020,Order,277 GB SSD,SSD,Samsung,4500.0,5850.0,3.0,13500.0,17550.0,1350.0,4050.0
+Italia,Aniruddha Kekapure,03/04/2020,Processing,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Brasil,Aslam Raza,03/04/2020,Delivered,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,3.0,37500.0,48750.0,3750.0,11250.0
+Colombia,Roshan Zameer,03/04/2020,Shipped,29 GB DDR4 RAM,RAM,Hynix,3500.0,4550.0,2.0,7000.0,9100.0,1050.0,2100.0
+Colombia,Rakesh Kumar Sharma,03/04/2020,Order,BTX motherboard,Motherboard,Gigabyte,4500.0,5850.0,1.0,4500.0,5850.0,1350.0,1350.0
+Brasil,Shivanand Sahani,03/04/2020,Processing,24 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,4.0,8400.0,10920.0,630.0,2520.0
+E.E.U.U,Kunal Patra,03/04/2020,Delivered,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,2.0,2300.0,2990.0,345.0,690.0
+Brasil,Bijendra,03/04/2020,Shipped,USB Mouse,Mouse,Samsung,350.0,455.0,2.0,700.0,910.0,105.0,210.0
+Brasil,Kranti Bheke,03/04/2020,Order,"19"" LED Display",Monitor,Dell,9500.0,12350.0,4.0,38000.0,49400.0,2850.0,11400.0
+Alemania,Jagdeep,03/04/2020,Processing,23 TB HDD,HDD,Western Digital,10000.0,13000.0,3.0,30000.0,39000.0,3000.0,9000.0
+E.E.U.U,Adhir Samal,03/04/2020,Delivered,533 GB M.2,SSD,Samsung,6500.0,8450.0,4.0,26000.0,33800.0,1950.0,7800.0
+Italia,Dannana Jhammi,03/04/2020,Shipped,RYZEN 3rd gen. 3521,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Francia,Vipin Kumar,03/04/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,3.0,21000.0,27300.0,2100.0,6300.0
+Colombia,Ranjeet Kumar,03/04/2020,Processing,37 GB DDR4 RAM,RAM,Hynix,6550.0,8515.0,2.0,13100.0,17030.0,1965.0,3930.0
+Colombia,Sajal Singhal,03/04/2020,Delivered,Standard ATX motherboard,Motherboard,Gigabyte,7650.0,9945.0,3.0,22950.0,29835.0,2295.0,6885.0
+Brasil,Akhilesh Kumar,03/04/2020,Shipped,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,3.0,3450.0,4485.0,345.0,1035.0
+India,Suvankar Chakraborty,03/04/2020,Order,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,3.0,2550.0,3315.0,255.0,765.0
+Brasil,Suvankar Adhikary,03/04/2020,Processing,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,3.0,1950.0,2535.0,195.0,585.0
+Reino Unido,Rahul Kumar Prajapati,03/04/2020,Delivered,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,3.0,22500.0,29250.0,2250.0,6750.0
+India,Sagar Jeur,03/04/2020,Shipped,23 TB HDD,HDD,Seagate,10000.0,13000.0,4.0,40000.0,52000.0,3000.0,12000.0
+Mexico,Rhushikesh Mane,03/04/2020,Order,22 TB SSD,SSD,Samsung,10500.0,13650.0,3.0,31500.0,40950.0,3150.0,9450.0
+Australia,Ashish Kumar,04/04/2020,Processing,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+Reino Unido,Javed Akhter,05/04/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,2.0,14000.0,18200.0,2100.0,4200.0
+E.E.U.U,Haridas Balraj,06/04/2020,Shipped,25 GB DDR4 Ram,RAM,Hynix,1680.0,2184.0,2.0,3360.0,4368.0,504.0,1008.0
+Mexico,Kundan Kumar,07/04/2020,Order,Micro ATX motherboard,Motherboard,MSI,6540.0,8502.0,3.0,19620.0,25506.0,1962.0,5886.0
+Reino Unido,Atif Siddiqui,08/04/2020,Processing,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,3.0,8040.0,10452.0,804.0,2412.0
+Mexico,Aditya Agarwal,09/04/2020,Delivered,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,1.0,8250.0,10725.0,2475.0,2475.0
+Alemania,Firdoush Jabee,10/04/2020,Shipped,29 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,3.0,7950.0,10335.0,795.0,2385.0
+Brasil,Jay Prakash Kumar,10/04/2020,Order,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,3.0,37650.0,48945.0,3765.0,11295.0
+India,Ashish Pandey,10/04/2020,Processing,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,4.0,58000.0,75400.0,4350.0,17400.0
+E.E.U.U,Ajay Sharma,10/04/2020,Delivered,USB Keyboard,Keyboard,Dell,800.0,1040.0,3.0,2400.0,3120.0,240.0,720.0
+Reino Unido,Moinuddin Saifi,10/04/2020,Shipped,Wireless Mouse,Mouse,Samsung,600.0,780.0,3.0,1800.0,2340.0,180.0,540.0
+Brasil,Ramkrishna Das Adhikary,10/04/2020,Order,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,4.0,42000.0,54600.0,3150.0,12600.0
+Colombia,Ranjeet Mandal,10/04/2020,Processing,23 TB HDD,HDD,Western Digital,6500.0,8450.0,1.0,6500.0,8450.0,1950.0,1950.0
+Francia,Ashwini Adsare,10/04/2020,Delivered,278 GB SSD,SSD,Samsung,4500.0,5850.0,2.0,9000.0,11700.0,1350.0,2700.0
+Alemania,Rajesh Variya,10/04/2020,Shipped,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Colombia,Amit Singh,10/04/2020,Order,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,1.0,12500.0,16250.0,3750.0,3750.0
+Brasil,Vinod Mehta,10/04/2020,Processing,30 GB DDR4 RAM,Computer Case,Hynix,3500.0,4550.0,1.0,3500.0,4550.0,1050.0,1050.0
+Australia,Jignesh Mhatre,10/04/2020,Delivered,BTX motherboard,Mouse,Gigabyte,4500.0,5850.0,2.0,9000.0,11700.0,1350.0,2700.0
+Brasil,Rahul Kashyap,10/04/2020,Shipped,25 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,1.0,2100.0,2730.0,630.0,630.0
+Alemania,Mohammed Abdul Kaleem,10/04/2020,Order,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,4.0,4600.0,5980.0,345.0,1380.0
+Japon,Chandrakant Kasbe,10/04/2020,Processing,USB Mouse,Mouse,Samsung,350.0,455.0,2.0,700.0,910.0,105.0,210.0
+Reino Unido,Rohan Kale,10/04/2020,Delivered,"19"" LED Display",Monitor,Dell,9500.0,12350.0,4.0,38000.0,49400.0,2850.0,11400.0
+E.E.U.U,Aniruddha Kekapure,10/04/2020,Shipped,24 TB HDD,HDD,Western Digital,10000.0,13000.0,1.0,10000.0,13000.0,3000.0,3000.0
+Italia,Aslam Raza,10/04/2020,Order,534 GB M.2,SSD,Samsung,6500.0,8450.0,4.0,26000.0,33800.0,1950.0,7800.0
+Alemania,Roshan Zameer,10/04/2020,Processing,RYZEN 3rd gen. 3522,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+Mexico,Rakesh Kumar Sharma,10/04/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+Francia,Shivanand Sahani,10/04/2020,Shipped,38 GB DDR4 RAM,Computer Case,Hynix,6550.0,8515.0,1.0,6550.0,8515.0,1965.0,1965.0
+China,Kunal Patra,10/04/2020,Order,Standard ATX motherboard,Mouse,Gigabyte,7650.0,9945.0,1.0,7650.0,9945.0,2295.0,2295.0
+Italia,Bijendra,10/04/2020,Processing,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,4.0,4600.0,5980.0,345.0,1380.0
+India,Kranti Bheke,10/04/2020,Delivered,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,3.0,2550.0,3315.0,255.0,765.0
+Japon,Jagdeep,10/04/2020,Shipped,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,1.0,650.0,845.0,195.0,195.0
+Francia,Adhir Samal,10/04/2020,Order,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,4.0,30000.0,39000.0,2250.0,9000.0
+E.E.U.U,Dannana Jhammi,10/04/2020,Processing,24 TB HDD,HDD,Seagate,10000.0,13000.0,3.0,30000.0,39000.0,3000.0,9000.0
+Japon,Vipin Kumar,10/04/2020,Delivered,23 TB SSD,SSD,Samsung,10500.0,13650.0,3.0,31500.0,40950.0,3150.0,9450.0
+Italia,Ranjeet Kumar,11/04/2020,Shipped,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,1.0,8500.0,11050.0,2550.0,2550.0
+Brasil,Sajal Singhal,12/04/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,2.0,14000.0,18200.0,2100.0,4200.0
+India,Akhilesh Kumar,13/04/2020,Processing,26 GB DDR4 Ram,Computer Case,Hynix,1680.0,2184.0,4.0,6720.0,8736.0,504.0,2016.0
+Brasil,Suvankar Chakraborty,14/04/2020,Delivered,Micro ATX motherboard,Mouse,MSI,6540.0,8502.0,3.0,19620.0,25506.0,1962.0,5886.0
+India,Suvankar Adhikary,15/04/2020,Shipped,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,2.0,5360.0,6968.0,804.0,1608.0
+Colombia,Rahul Kumar Prajapati,16/04/2020,Order,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,4.0,33000.0,42900.0,2475.0,9900.0
+Mexico,Sagar Jeur,16/04/2020,Processing,30 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,2.0,5300.0,6890.0,795.0,1590.0
+Italia,Rhushikesh Mane,16/04/2020,Delivered,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,4.0,50200.0,65260.0,3765.0,15060.0
+Brasil,Ashish Kumar,16/04/2020,Shipped,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,2.0,29000.0,37700.0,4350.0,8700.0
+Australia,Javed Akhter,16/04/2020,Order,USB Keyboard,Keyboard,Dell,800.0,1040.0,1.0,800.0,1040.0,240.0,240.0
+Colombia,Haridas Balraj,16/04/2020,Processing,Wireless Mouse,Mouse,Samsung,600.0,780.0,1.0,600.0,780.0,180.0,180.0
+Reino Unido,Kundan Kumar,16/04/2020,Delivered,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,1.0,10500.0,13650.0,3150.0,3150.0
+Italia,Atif Siddiqui,16/04/2020,Shipped,24 TB HDD,HDD,Western Digital,6500.0,8450.0,2.0,13000.0,16900.0,1950.0,3900.0
+Colombia,Aditya Agarwal,16/04/2020,Order,279 GB SSD,SSD,Samsung,4500.0,5850.0,4.0,18000.0,23400.0,1350.0,5400.0
+India,Firdoush Jabee,16/04/2020,Processing,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+Francia,Jay Prakash Kumar,16/04/2020,Delivered,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,2.0,25000.0,32500.0,3750.0,7500.0
+Japon,Ashish Pandey,16/04/2020,Shipped,31 GB DDR4 RAM,NIC,Hynix,3500.0,4550.0,3.0,10500.0,13650.0,1050.0,3150.0
+Italia,Ajay Sharma,16/04/2020,Order,BTX motherboard,Printer,Gigabyte,4500.0,5850.0,2.0,9000.0,11700.0,1350.0,2700.0
+Colombia,Moinuddin Saifi,16/04/2020,Processing,26 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,2.0,4200.0,5460.0,630.0,1260.0
+Reino Unido,Ramkrishna Das Adhikary,16/04/2020,Delivered,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,1.0,1150.0,1495.0,345.0,345.0
+Japon,Ranjeet Mandal,16/04/2020,Shipped,USB Mouse,Mouse,Samsung,350.0,455.0,4.0,1400.0,1820.0,105.0,420.0
+Alemania,Ashwini Adsare,16/04/2020,Order,"19"" LED Display",Monitor,Dell,9500.0,12350.0,2.0,19000.0,24700.0,2850.0,5700.0
+India,Rajesh Variya,16/04/2020,Processing,25 TB HDD,HDD,Western Digital,10000.0,13000.0,3.0,30000.0,39000.0,3000.0,9000.0
+China,Amit Singh,16/04/2020,Delivered,535 GB M.2,SSD,Samsung,6500.0,8450.0,4.0,26000.0,33800.0,1950.0,7800.0
+Mexico,Vinod Mehta,16/04/2020,Shipped,RYZEN 3rd gen. 3523,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Mexico,Jignesh Mhatre,16/04/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,1.0,7000.0,9100.0,2100.0,2100.0
+Reino Unido,Rahul Kashyap,16/04/2020,Processing,39 GB DDR4 RAM,NIC,Hynix,6550.0,8515.0,1.0,6550.0,8515.0,1965.0,1965.0
+Alemania,Mohammed Abdul Kaleem,16/04/2020,Delivered,Standard ATX motherboard,Printer,Gigabyte,7650.0,9945.0,4.0,30600.0,39780.0,2295.0,9180.0
+Australia,Chandrakant Kasbe,16/04/2020,Shipped,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,4.0,4600.0,5980.0,345.0,1380.0
+E.E.U.U,Rohan Kale,16/04/2020,Order,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,4.0,3400.0,4420.0,255.0,1020.0
+Colombia,Aniruddha Kekapure,16/04/2020,Processing,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,3.0,1950.0,2535.0,195.0,585.0
+E.E.U.U,Aslam Raza,16/04/2020,Delivered,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,4.0,30000.0,39000.0,2250.0,9000.0
+Australia,Roshan Zameer,16/04/2020,Shipped,25 TB HDD,HDD,Seagate,10000.0,13000.0,3.0,30000.0,39000.0,3000.0,9000.0
+India,Rakesh Kumar Sharma,16/04/2020,Order,24 TB SSD,SSD,Samsung,10500.0,13650.0,2.0,21000.0,27300.0,3150.0,6300.0
+Brasil,Shivanand Sahani,16/04/2020,Processing,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,1.0,8500.0,11050.0,2550.0,2550.0
+Italia,Kunal Patra,16/04/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,1.0,7000.0,9100.0,2100.0,2100.0
+E.E.U.U,Bijendra,16/04/2020,Shipped,27 GB DDR4 Ram,NIC,Hynix,1680.0,2184.0,4.0,6720.0,8736.0,504.0,2016.0
+Brasil,Kranti Bheke,16/04/2020,Order,Micro ATX motherboard,Printer,MSI,6540.0,8502.0,3.0,19620.0,25506.0,1962.0,5886.0
+India,Jagdeep,16/04/2020,Processing,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,1.0,2680.0,3484.0,804.0,804.0
+Francia,Adhir Samal,16/04/2020,Delivered,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,3.0,24750.0,32175.0,2475.0,7425.0
+Colombia,Dannana Jhammi,16/04/2020,Shipped,31 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,2.0,5300.0,6890.0,795.0,1590.0
+Italia,Vipin Kumar,16/04/2020,Order,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,4.0,50200.0,65260.0,3765.0,15060.0
+China,Ranjeet Kumar,16/04/2020,Processing,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,3.0,43500.0,56550.0,4350.0,13050.0
+Alemania,Sajal Singhal,16/04/2020,Delivered,USB Keyboard,Keyboard,Dell,800.0,1040.0,1.0,800.0,1040.0,240.0,240.0
+Brasil,Akhilesh Kumar,16/04/2020,Shipped,Wireless Mouse,Mouse,Samsung,600.0,780.0,2.0,1200.0,1560.0,180.0,360.0
+Colombia,Suvankar Chakraborty,16/04/2020,Order,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,4.0,42000.0,54600.0,3150.0,12600.0
+India,Suvankar Adhikary,16/04/2020,Processing,25 TB HDD,HDD,Western Digital,6500.0,8450.0,2.0,13000.0,16900.0,1950.0,3900.0
+E.E.U.U,Rahul Kumar Prajapati,16/04/2020,Delivered,280 GB SSD,SSD,Samsung,4500.0,5850.0,2.0,9000.0,11700.0,1350.0,2700.0
+Alemania,Sagar Jeur,16/04/2020,Shipped,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Australia,Rhushikesh Mane,16/04/2020,Order,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,2.0,25000.0,32500.0,3750.0,7500.0
+Brasil,Ashish Kumar,16/04/2020,Processing,32 GB DDR4 RAM,RAM,Hynix,3500.0,4550.0,3.0,10500.0,13650.0,1050.0,3150.0
+Colombia,Javed Akhter,16/04/2020,Delivered,BTX motherboard,Motherboard,Gigabyte,4500.0,5850.0,2.0,9000.0,11700.0,1350.0,2700.0
+Francia,Haridas Balraj,16/04/2020,Shipped,27 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,3.0,6300.0,8190.0,630.0,1890.0
+Francia,Kundan Kumar,16/04/2020,Order,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,2.0,2300.0,2990.0,345.0,690.0
+China,Atif Siddiqui,17/04/2020,Processing,USB Mouse,Mouse,Samsung,350.0,455.0,4.0,1400.0,1820.0,105.0,420.0
+Japon,Aditya Agarwal,17/04/2020,Delivered,"19"" LED Display",Monitor,Dell,9500.0,12350.0,1.0,9500.0,12350.0,2850.0,2850.0
+Italia,Firdoush Jabee,17/04/2020,Shipped,26 TB HDD,HDD,Western Digital,10000.0,13000.0,3.0,30000.0,39000.0,3000.0,9000.0
+Mexico,Jay Prakash Kumar,17/04/2020,Order,536 GB M.2,SSD,Samsung,6500.0,8450.0,1.0,6500.0,8450.0,1950.0,1950.0
+Australia,Ashish Pandey,17/04/2020,Processing,RYZEN 3rd gen. 3524,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Colombia,Ajay Sharma,17/04/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,3.0,21000.0,27300.0,2100.0,6300.0
+Reino Unido,Moinuddin Saifi,17/04/2020,Shipped,40 GB DDR4 RAM,RAM,Hynix,6550.0,8515.0,1.0,6550.0,8515.0,1965.0,1965.0
+Reino Unido,Ramkrishna Das Adhikary,17/04/2020,Order,Standard ATX motherboard,Motherboard,Gigabyte,7650.0,9945.0,3.0,22950.0,29835.0,2295.0,6885.0
+Reino Unido,Ranjeet Mandal,17/04/2020,Processing,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,1.0,1150.0,1495.0,345.0,345.0
+Australia,Ashwini Adsare,17/04/2020,Delivered,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,4.0,3400.0,4420.0,255.0,1020.0
+Brasil,Rajesh Variya,17/04/2020,Shipped,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,4.0,2600.0,3380.0,195.0,780.0
+Francia,Amit Singh,18/04/2020,Order,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,4.0,30000.0,39000.0,2250.0,9000.0
+Mexico,Vinod Mehta,18/04/2020,Processing,26 TB HDD,HDD,Seagate,10000.0,13000.0,3.0,30000.0,39000.0,3000.0,9000.0
+Japon,Jignesh Mhatre,18/04/2020,Delivered,25 TB SSD,SSD,Samsung,10500.0,13650.0,3.0,31500.0,40950.0,3150.0,9450.0
+Japon,Rahul Kashyap,18/04/2020,Shipped,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,1.0,8500.0,11050.0,2550.0,2550.0
+Brasil,Mohammed Abdul Kaleem,18/04/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,3.0,21000.0,27300.0,2100.0,6300.0
+Colombia,Chandrakant Kasbe,18/04/2020,Processing,28 GB DDR4 Ram,RAM,Hynix,1680.0,2184.0,2.0,3360.0,4368.0,504.0,1008.0
+Colombia,Rohan Kale,18/04/2020,Delivered,Micro ATX motherboard,Motherboard,MSI,6540.0,8502.0,3.0,19620.0,25506.0,1962.0,5886.0
+Francia,Aniruddha Kekapure,18/04/2020,Shipped,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,2.0,5360.0,6968.0,804.0,1608.0
+Reino Unido,Aslam Raza,18/04/2020,Order,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,4.0,33000.0,42900.0,2475.0,9900.0
+Francia,Roshan Zameer,18/04/2020,Processing,32 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,1.0,2650.0,3445.0,795.0,795.0
+Colombia,Rakesh Kumar Sharma,18/04/2020,Delivered,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,3.0,37650.0,48945.0,3765.0,11295.0
+Australia,Shivanand Sahani,18/04/2020,Shipped,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,3.0,43500.0,56550.0,4350.0,13050.0
+Colombia,Kunal Patra,18/04/2020,Order,USB Keyboard,Keyboard,Dell,800.0,1040.0,3.0,2400.0,3120.0,240.0,720.0
+Francia,Bijendra,18/04/2020,Processing,Wireless Mouse,Mouse,Samsung,600.0,780.0,4.0,2400.0,3120.0,180.0,720.0
+Colombia,Kranti Bheke,18/04/2020,Delivered,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,3.0,31500.0,40950.0,3150.0,9450.0
+Francia,Jagdeep,18/04/2020,Shipped,26 TB HDD,HDD,Western Digital,6500.0,8450.0,3.0,19500.0,25350.0,1950.0,5850.0
+Mexico,Adhir Samal,18/04/2020,Order,281 GB SSD,SSD,Samsung,4500.0,5850.0,4.0,18000.0,23400.0,1350.0,5400.0
+China,Dannana Jhammi,18/04/2020,Processing,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,1.0,8500.0,11050.0,2550.0,2550.0
+Colombia,Vipin Kumar,18/04/2020,Delivered,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,4.0,50000.0,65000.0,3750.0,15000.0
+Alemania,Ranjeet Kumar,18/04/2020,Shipped,33 GB DDR4 RAM,Computer Case,Hynix,3500.0,4550.0,2.0,7000.0,9100.0,1050.0,2100.0
+Mexico,Sajal Singhal,18/04/2020,Order,BTX motherboard,Mouse,Gigabyte,4500.0,5850.0,1.0,4500.0,5850.0,1350.0,1350.0
+Australia,Akhilesh Kumar,18/04/2020,Processing,28 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,1.0,2100.0,2730.0,630.0,630.0
+Japon,Suvankar Chakraborty,18/04/2020,Delivered,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,2.0,2300.0,2990.0,345.0,690.0
+India,Suvankar Adhikary,19/04/2020,Shipped,USB Mouse,Mouse,Samsung,350.0,455.0,1.0,350.0,455.0,105.0,105.0
+E.E.U.U,Rahul Kumar Prajapati,20/04/2020,Order,"19"" LED Display",Monitor,Dell,9500.0,12350.0,3.0,28500.0,37050.0,2850.0,8550.0
+Francia,Sagar Jeur,21/04/2020,Processing,27 TB HDD,HDD,Western Digital,10000.0,13000.0,2.0,20000.0,26000.0,3000.0,6000.0
+India,Rhushikesh Mane,22/04/2020,Delivered,537 GB M.2,SSD,Samsung,6500.0,8450.0,1.0,6500.0,8450.0,1950.0,1950.0
+Alemania,Ashish Kumar,23/04/2020,Shipped,RYZEN 3rd gen. 3525,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+India,Javed Akhter,24/04/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+Mexico,Haridas Balraj,25/04/2020,Processing,41 GB DDR4 RAM,Computer Case,Hynix,6550.0,8515.0,3.0,19650.0,25545.0,1965.0,5895.0
+Reino Unido,Kundan Kumar,26/04/2020,Delivered,Standard ATX motherboard,Mouse,Gigabyte,7650.0,9945.0,1.0,7650.0,9945.0,2295.0,2295.0
+Australia,Atif Siddiqui,26/04/2020,Shipped,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,3.0,3450.0,4485.0,345.0,1035.0
+China,Aditya Agarwal,26/04/2020,Order,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,1.0,850.0,1105.0,255.0,255.0
+China,Firdoush Jabee,26/04/2020,Processing,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,4.0,2600.0,3380.0,195.0,780.0
+Francia,Jay Prakash Kumar,26/04/2020,Delivered,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,4.0,30000.0,39000.0,2250.0,9000.0
+Brasil,Ashish Pandey,26/04/2020,Shipped,27 TB HDD,HDD,Seagate,10000.0,13000.0,1.0,10000.0,13000.0,3000.0,3000.0
+India,Ajay Sharma,26/04/2020,Order,26 TB SSD,SSD,Samsung,10500.0,13650.0,3.0,31500.0,40950.0,3150.0,9450.0
+India,Moinuddin Saifi,26/04/2020,Processing,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,2.0,17000.0,22100.0,2550.0,5100.0
+E.E.U.U,Ramkrishna Das Adhikary,26/04/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,1.0,7000.0,9100.0,2100.0,2100.0
+Colombia,Ranjeet Mandal,26/04/2020,Shipped,29 GB DDR4 Ram,Computer Case,Hynix,1680.0,2184.0,2.0,3360.0,4368.0,504.0,1008.0
+Australia,Ashwini Adsare,26/04/2020,Order,Micro ATX motherboard,Mouse,MSI,6540.0,8502.0,2.0,13080.0,17004.0,1962.0,3924.0
+Brasil,Rajesh Variya,26/04/2020,Processing,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,4.0,10720.0,13936.0,804.0,3216.0
+Mexico,Amit Singh,26/04/2020,Delivered,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,4.0,33000.0,42900.0,2475.0,9900.0
+Australia,Vinod Mehta,26/04/2020,Shipped,33 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,1.0,2650.0,3445.0,795.0,795.0
+Brasil,Jignesh Mhatre,26/04/2020,Order,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,2.0,25100.0,32630.0,3765.0,7530.0
+Australia,Rahul Kashyap,26/04/2020,Processing,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,1.0,14500.0,18850.0,4350.0,4350.0
+E.E.U.U,Mohammed Abdul Kaleem,26/04/2020,Delivered,USB Keyboard,Keyboard,Dell,800.0,1040.0,4.0,3200.0,4160.0,240.0,960.0
+E.E.U.U,Chandrakant Kasbe,26/04/2020,Shipped,Wireless Mouse,Mouse,Samsung,600.0,780.0,3.0,1800.0,2340.0,180.0,540.0
+India,Rohan Kale,26/04/2020,Order,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,1.0,10500.0,13650.0,3150.0,3150.0
+China,Aniruddha Kekapure,26/04/2020,Processing,27 TB HDD,HDD,Western Digital,6500.0,8450.0,1.0,6500.0,8450.0,1950.0,1950.0
+Colombia,Aslam Raza,27/04/2020,Delivered,282 GB SSD,SSD,Samsung,4500.0,5850.0,2.0,9000.0,11700.0,1350.0,2700.0
+Reino Unido,Roshan Zameer,27/04/2020,Shipped,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,2.0,17000.0,22100.0,2550.0,5100.0
+Australia,Rakesh Kumar Sharma,27/04/2020,Order,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,4.0,50000.0,65000.0,3750.0,15000.0
+Colombia,Shivanand Sahani,27/04/2020,Processing,34 GB DDR4 RAM,NIC,Hynix,3500.0,4550.0,3.0,10500.0,13650.0,1050.0,3150.0
+Japon,Kunal Patra,27/04/2020,Delivered,BTX motherboard,Printer,Gigabyte,4500.0,5850.0,1.0,4500.0,5850.0,1350.0,1350.0
+Japon,Bijendra,27/04/2020,Shipped,29 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,4.0,8400.0,10920.0,630.0,2520.0
+Reino Unido,Kranti Bheke,27/04/2020,Order,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,4.0,4600.0,5980.0,345.0,1380.0
+Reino Unido,Jagdeep,27/04/2020,Processing,USB Mouse,Mouse,Samsung,350.0,455.0,3.0,1050.0,1365.0,105.0,315.0
+Alemania,Adhir Samal,27/04/2020,Delivered,"19"" LED Display",Monitor,Dell,9500.0,12350.0,4.0,38000.0,49400.0,2850.0,11400.0
+Italia,Dannana Jhammi,27/04/2020,Shipped,28 TB HDD,HDD,Western Digital,10000.0,13000.0,3.0,30000.0,39000.0,3000.0,9000.0
+Italia,Vipin Kumar,27/04/2020,Order,538 GB M.2,SSD,Samsung,6500.0,8450.0,2.0,13000.0,16900.0,1950.0,3900.0
+China,Ranjeet Kumar,27/04/2020,Processing,RYZEN 3rd gen. 3526,CPU,Intel,8500.0,11050.0,2.0,17000.0,22100.0,2550.0,5100.0
+Colombia,Sajal Singhal,27/04/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,3.0,21000.0,27300.0,2100.0,6300.0
+Brasil,Akhilesh Kumar,27/04/2020,Shipped,42 GB DDR4 RAM,NIC,Hynix,6550.0,8515.0,3.0,19650.0,25545.0,1965.0,5895.0
+Reino Unido,Suvankar Chakraborty,27/04/2020,Order,Standard ATX motherboard,Printer,Gigabyte,7650.0,9945.0,2.0,15300.0,19890.0,2295.0,4590.0
+Alemania,Suvankar Adhikary,27/04/2020,Processing,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,2.0,2300.0,2990.0,345.0,690.0
+India,Rahul Kumar Prajapati,27/04/2020,Delivered,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,3.0,2550.0,3315.0,255.0,765.0
+Italia,Sagar Jeur,28/04/2020,Shipped,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,2.0,1300.0,1690.0,195.0,390.0
+E.E.U.U,Rhushikesh Mane,29/04/2020,Order,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,3.0,22500.0,29250.0,2250.0,6750.0
+China,Ashish Kumar,30/04/2020,Processing,28 TB HDD,HDD,Seagate,10000.0,13000.0,1.0,10000.0,13000.0,3000.0,3000.0
+India,Javed Akhter,30/04/2020,Delivered,27 TB SSD,SSD,Samsung,10500.0,13650.0,3.0,31500.0,40950.0,3150.0,9450.0
+Italia,Haridas Balraj,30/04/2020,Shipped,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,2.0,17000.0,22100.0,2550.0,5100.0
+Mexico,Kundan Kumar,30/04/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+Brasil,Atif Siddiqui,30/04/2020,Processing,30 GB DDR4 Ram,NIC,Hynix,1680.0,2184.0,3.0,5040.0,6552.0,504.0,1512.0
+Italia,Aditya Agarwal,30/04/2020,Delivered,Micro ATX motherboard,Printer,MSI,6540.0,8502.0,4.0,26160.0,34008.0,1962.0,7848.0
+Japon,Firdoush Jabee,30/04/2020,Shipped,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,3.0,8040.0,10452.0,804.0,2412.0
+E.E.U.U,Jay Prakash Kumar,30/04/2020,Order,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,4.0,33000.0,42900.0,2475.0,9900.0
+Australia,Ashish Pandey,30/04/2020,Processing,34 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,3.0,7950.0,10335.0,795.0,2385.0
+Reino Unido,Ajay Sharma,30/04/2020,Delivered,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,1.0,12550.0,16315.0,3765.0,3765.0
+Colombia,Moinuddin Saifi,30/04/2020,Shipped,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,2.0,29000.0,37700.0,4350.0,8700.0
+Mexico,Ramkrishna Das Adhikary,30/04/2020,Order,USB Keyboard,Keyboard,Dell,800.0,1040.0,1.0,800.0,1040.0,240.0,240.0
+Colombia,Ranjeet Mandal,30/04/2020,Processing,Wireless Mouse,Mouse,Samsung,600.0,780.0,1.0,600.0,780.0,180.0,180.0
+Alemania,Ashwini Adsare,30/04/2020,Delivered,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,3.0,31500.0,40950.0,3150.0,9450.0
+Colombia,Rajesh Variya,30/04/2020,Shipped,28 TB HDD,HDD,Western Digital,6500.0,8450.0,3.0,19500.0,25350.0,1950.0,5850.0
+Brasil,Amit Singh,30/04/2020,Order,283 GB SSD,SSD,Samsung,4500.0,5850.0,3.0,13500.0,17550.0,1350.0,4050.0
+Mexico,Vinod Mehta,30/04/2020,Processing,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,2.0,17000.0,22100.0,2550.0,5100.0
+Mexico,Jignesh Mhatre,30/04/2020,Delivered,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,3.0,37500.0,48750.0,3750.0,11250.0
+China,Rahul Kashyap,30/04/2020,Shipped,35 GB DDR4 RAM,RAM,Hynix,3500.0,4550.0,1.0,3500.0,4550.0,1050.0,1050.0
+Alemania,Mohammed Abdul Kaleem,30/04/2020,Order,BTX motherboard,Motherboard,Gigabyte,4500.0,5850.0,4.0,18000.0,23400.0,1350.0,5400.0
+Australia,Chandrakant Kasbe,30/04/2020,Processing,30 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,4.0,8400.0,10920.0,630.0,2520.0
+Australia,Rohan Kale,30/04/2020,Delivered,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,3.0,3450.0,4485.0,345.0,1035.0
+Italia,Aniruddha Kekapure,30/04/2020,Shipped,USB Mouse,Mouse,Samsung,350.0,455.0,3.0,1050.0,1365.0,105.0,315.0
+E.E.U.U,Aslam Raza,30/04/2020,Order,"19"" LED Display",Monitor,Dell,9500.0,12350.0,3.0,28500.0,37050.0,2850.0,8550.0
+Brasil,Roshan Zameer,30/04/2020,Processing,29 TB HDD,HDD,Western Digital,10000.0,13000.0,3.0,30000.0,39000.0,3000.0,9000.0
+Francia,Rakesh Kumar Sharma,30/04/2020,Delivered,539 GB M.2,SSD,Samsung,6500.0,8450.0,1.0,6500.0,8450.0,1950.0,1950.0
+Alemania,Shivanand Sahani,30/04/2020,Shipped,RYZEN 3rd gen. 3527,CPU,Intel,8500.0,11050.0,3.0,25500.0,33150.0,2550.0,7650.0
+Brasil,Kunal Patra,30/04/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,2.0,14000.0,18200.0,2100.0,4200.0
+Brasil,Bijendra,30/04/2020,Processing,43 GB DDR4 RAM,RAM,Hynix,6550.0,8515.0,3.0,19650.0,25545.0,1965.0,5895.0
+China,Kranti Bheke,30/04/2020,Delivered,Standard ATX motherboard,Motherboard,Gigabyte,7650.0,9945.0,3.0,22950.0,29835.0,2295.0,6885.0
+Francia,Jagdeep,30/04/2020,Shipped,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,1.0,1150.0,1495.0,345.0,345.0
+India,Adhir Samal,30/04/2020,Order,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,3.0,2550.0,3315.0,255.0,765.0
+India,Dannana Jhammi,30/04/2020,Processing,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,3.0,1950.0,2535.0,195.0,585.0
+India,Vipin Kumar,30/04/2020,Delivered,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,1.0,7500.0,9750.0,2250.0,2250.0
+Italia,Ranjeet Kumar,30/04/2020,Shipped,29 TB HDD,HDD,Seagate,10000.0,13000.0,4.0,40000.0,52000.0,3000.0,12000.0
+Alemania,Sajal Singhal,30/04/2020,Order,28 TB SSD,SSD,Samsung,10500.0,13650.0,4.0,42000.0,54600.0,3150.0,12600.0
+Colombia,Akhilesh Kumar,01/05/2020,Processing,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,2.0,17000.0,22100.0,2550.0,5100.0
+Francia,Suvankar Chakraborty,02/05/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,3.0,21000.0,27300.0,2100.0,6300.0
+Colombia,Suvankar Adhikary,03/05/2020,Shipped,31 GB DDR4 Ram,RAM,Hynix,1680.0,2184.0,3.0,5040.0,6552.0,504.0,1512.0
+India,Rahul Kumar Prajapati,04/05/2020,Order,Micro ATX motherboard,Motherboard,MSI,6540.0,8502.0,4.0,26160.0,34008.0,1962.0,7848.0
+Japon,Sagar Jeur,05/05/2020,Processing,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,2.0,5360.0,6968.0,804.0,1608.0
+India,Rhushikesh Mane,05/05/2020,Delivered,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,2.0,16500.0,21450.0,2475.0,4950.0
+Brasil,Ashish Kumar,05/05/2020,Shipped,35 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,1.0,2650.0,3445.0,795.0,795.0
+Italia,Javed Akhter,05/05/2020,Order,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,3.0,37650.0,48945.0,3765.0,11295.0
+Colombia,Haridas Balraj,05/05/2020,Processing,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,3.0,43500.0,56550.0,4350.0,13050.0
+Alemania,Kundan Kumar,05/05/2020,Delivered,USB Keyboard,Keyboard,Dell,800.0,1040.0,4.0,3200.0,4160.0,240.0,960.0
+Australia,Atif Siddiqui,05/05/2020,Shipped,Wireless Mouse,Mouse,Samsung,600.0,780.0,4.0,2400.0,3120.0,180.0,720.0
+India,Aditya Agarwal,05/05/2020,Order,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,2.0,21000.0,27300.0,3150.0,6300.0
+India,Firdoush Jabee,05/05/2020,Processing,29 TB HDD,HDD,Western Digital,6500.0,8450.0,2.0,13000.0,16900.0,1950.0,3900.0
+Francia,Jay Prakash Kumar,06/05/2020,Delivered,284 GB SSD,SSD,Samsung,4500.0,5850.0,1.0,4500.0,5850.0,1350.0,1350.0
+E.E.U.U,Ashish Pandey,07/05/2020,Shipped,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+E.E.U.U,Ajay Sharma,08/05/2020,Order,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,2.0,25000.0,32500.0,3750.0,7500.0
+Australia,Moinuddin Saifi,09/05/2020,Processing,36 GB DDR4 RAM,Computer Case,Hynix,3500.0,4550.0,3.0,10500.0,13650.0,1050.0,3150.0
+Mexico,Ramkrishna Das Adhikary,09/05/2020,Delivered,BTX motherboard,Mouse,Gigabyte,4500.0,5850.0,2.0,9000.0,11700.0,1350.0,2700.0
+Alemania,Ranjeet Mandal,09/05/2020,Shipped,31 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,2.0,4200.0,5460.0,630.0,1260.0
+India,Ashwini Adsare,09/05/2020,Order,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,4.0,4600.0,5980.0,345.0,1380.0
+China,Rajesh Variya,09/05/2020,Processing,USB Mouse,Mouse,Samsung,350.0,455.0,4.0,1400.0,1820.0,105.0,420.0
+Brasil,Amit Singh,09/05/2020,Delivered,"19"" LED Display",Monitor,Dell,9500.0,12350.0,3.0,28500.0,37050.0,2850.0,8550.0
+Italia,Vinod Mehta,09/05/2020,Shipped,30 TB HDD,HDD,Western Digital,10000.0,13000.0,4.0,40000.0,52000.0,3000.0,12000.0
+Japon,Jignesh Mhatre,09/05/2020,Order,540 GB M.2,SSD,Samsung,6500.0,8450.0,4.0,26000.0,33800.0,1950.0,7800.0
+Italia,Rahul Kashyap,09/05/2020,Processing,RYZEN 3rd gen. 3528,CPU,Intel,8500.0,11050.0,2.0,17000.0,22100.0,2550.0,5100.0
+Mexico,Mohammed Abdul Kaleem,09/05/2020,Delivered,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+Brasil,Chandrakant Kasbe,09/05/2020,Shipped,44 GB DDR4 RAM,Computer Case,Hynix,6550.0,8515.0,2.0,13100.0,17030.0,1965.0,3930.0
+India,Rohan Kale,09/05/2020,Order,Standard ATX motherboard,Mouse,Gigabyte,7650.0,9945.0,4.0,30600.0,39780.0,2295.0,9180.0
+Italia,Aniruddha Kekapure,09/05/2020,Processing,Compact with 1 Fan,Cabinet,Asus,1150.0,1495.0,1.0,1150.0,1495.0,345.0,345.0
+Mexico,Aslam Raza,09/05/2020,Delivered,USB Backlight Keyboard,Keyboard,Dell,850.0,1105.0,2.0,1700.0,2210.0,255.0,510.0
+India,Roshan Zameer,09/05/2020,Shipped,Ergonomic Mouse,Mouse,Samsung,650.0,845.0,3.0,1950.0,2535.0,195.0,585.0
+Francia,Rakesh Kumar Sharma,09/05/2020,Order,"15"" LCD Dsipaly",Monitor,Dell,7500.0,9750.0,3.0,22500.0,29250.0,2250.0,6750.0
+Mexico,Shivanand Sahani,09/05/2020,Processing,30 TB HDD,HDD,Seagate,10000.0,13000.0,1.0,10000.0,13000.0,3000.0,3000.0
+Colombia,Kunal Patra,09/05/2020,Delivered,29 TB SSD,SSD,Samsung,10500.0,13650.0,2.0,21000.0,27300.0,3150.0,6300.0
+Colombia,Bijendra,09/05/2020,Shipped,Intel i5 12th gen.,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+Reino Unido,Kranti Bheke,09/05/2020,Order,2GB Graphic Card,Graphic Card,Nvidia,7000.0,9100.0,4.0,28000.0,36400.0,2100.0,8400.0
+Mexico,Jagdeep,09/05/2020,Processing,32 GB DDR4 Ram,Computer Case,Hynix,1680.0,2184.0,2.0,3360.0,4368.0,504.0,1008.0
+Australia,Adhir Samal,09/05/2020,Delivered,Micro ATX motherboard,Mouse,MSI,6540.0,8502.0,4.0,26160.0,34008.0,1962.0,7848.0
+Brasil,Dannana Jhammi,09/05/2020,Shipped,Gaming Box Cabinet,Cabinet,Asus,2680.0,3484.0,2.0,5360.0,6968.0,804.0,1608.0
+Japon,Vipin Kumar,09/05/2020,Order,"17"" LCD Display",Monitor,Samsung,8250.0,10725.0,2.0,16500.0,21450.0,2475.0,4950.0
+Japon,Ranjeet Kumar,09/05/2020,Processing,36 GB DDR4 RAM,RAM,Samsung,2650.0,3445.0,4.0,10600.0,13780.0,795.0,3180.0
+E.E.U.U,Sajal Singhal,09/05/2020,Delivered,"26"" LCD Display",Monitor,Acer,12550.0,16315.0,3.0,37650.0,48945.0,3765.0,11295.0
+Mexico,Akhilesh Kumar,09/05/2020,Shipped,I7 - intel 12th Generation,CPU,Intel,14500.0,18850.0,4.0,58000.0,75400.0,4350.0,17400.0
+Reino Unido,Suvankar Chakraborty,09/05/2020,Order,USB Keyboard,Keyboard,Dell,800.0,1040.0,3.0,2400.0,3120.0,240.0,720.0
+Brasil,Suvankar Adhikary,09/05/2020,Processing,Wireless Mouse,Mouse,Samsung,600.0,780.0,4.0,2400.0,3120.0,180.0,720.0
+Francia,Rahul Kumar Prajapati,09/05/2020,Delivered,"21"" LCD Display",Monitor,Dell,10500.0,13650.0,2.0,21000.0,27300.0,3150.0,6300.0
+Reino Unido,Sagar Jeur,09/05/2020,Shipped,30 TB HDD,HDD,Western Digital,6500.0,8450.0,3.0,19500.0,25350.0,1950.0,5850.0
+Italia,Rhushikesh Mane,09/05/2020,Order,285 GB SSD,SSD,Samsung,4500.0,5850.0,4.0,18000.0,23400.0,1350.0,5400.0
+India,Ashish Kumar,09/05/2020,Processing,Intel i3 11th gen.,CPU,Intel,8500.0,11050.0,4.0,34000.0,44200.0,2550.0,10200.0
+Colombia,Javed Akhter,09/05/2020,Delivered,4GB Graphic card,Graphic Card,Nvidia,12500.0,16250.0,4.0,50000.0,65000.0,3750.0,15000.0
+India,Haridas Balraj,09/05/2020,Shipped,37 GB DDR4 RAM,NIC,Hynix,3500.0,4550.0,2.0,7000.0,9100.0,1050.0,2100.0
+Colombia,Kundan Kumar,09/05/2020,Order,BTX motherboard,Printer,Gigabyte,4500.0,5850.0,4.0,18000.0,23400.0,1350.0,5400.0
+Japon,Atif Siddiqui,09/05/2020,Processing,32 Fans Cabinet,Cabinet,Asus,2100.0,2730.0,4.0,8400.0,10920.0,630.0,2520.0
+Australia,Aditya Agarwal,09/05/2020,Delivered,Wireless Keyboard,Keyboard,Dell,1150.0,1495.0,1.0,1150.0,1495.0,345.0,345.0
+Reino Unido,Firdoush Jabee,10/05/2020,Shipped,USB Mouse,Mouse,Samsung,350.0,455.0,1.0,350.0,455.0,105.0,105.0
+Brasil,Jay Prakash Kumar,10/05/2020,Order,"19"" LED Display",Monitor,Dell,9500.0,12350.0,4.0,38000.0,49400.0,2850.0,11400.0
