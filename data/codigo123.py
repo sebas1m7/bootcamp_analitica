@@ -17,6 +17,13 @@ date["Pais"] = [random.choice(["Mexico", "Colombia", "China", "Reino Unido", "Al
 #print(date.head())
 
 df = date
+traduciones = {
+        'Delivered': 'Entregado',
+        'Processing': 'En proceso',
+        'Shipped': 'Enviado',
+        'Order': 'Pedido'
+}
+df["Estado"] = df["Estado"].map(traduciones).fillna(df["Estado"])
 translator= Translator()
 df['Estado'] = df['Estado'].apply(lambda x: translator.translate(x, src='en', dest='es').text)
 
