@@ -4,7 +4,8 @@ from textblob import  TextBlob
 from googletrans import Translator
 datos1 = pd.read_csv('eccomers.csv',nrows=1000)
 datos1.drop(["Order_Number","Assigned Supervisor"], axis=1, inplace=True)
-datos1.dropna(inplace=True) 
+datos1.dropna(inplace=True)
+
 
 print(datos1.isnull().sum())
 datos1.columns = ["Pais","Nombre_cliente","Datos_pedido","Estado","Producto","Categoria","Marca","Costo","Ventas","Cantidad","Costo_Totales","Ventas_totales"]
