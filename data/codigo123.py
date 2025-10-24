@@ -24,13 +24,12 @@ traduciones = {
         'Order': 'Pedido'
 }
 df["Estado"] = df["Estado"].map(traduciones).fillna(df["Estado"])
-translator= Translator()
-df['Estado'] = df['Estado'].apply(lambda x: translator.translate(x, src='en', dest='es').text)
-
 
 #print(df.isnull().sum())
 #print(df.info())
-print(df["Pais"])
+print(df["Estado"])
 #print(df.info())
-
-df.to_csv("uju.csv",index=False)
+#marcar=["Dell"."Asus","Sansung","","*"]
+dato=input("ingrese la marca que desea buscar:")
+filtro=df["Marca"]==dato
+print(df[filtro])
