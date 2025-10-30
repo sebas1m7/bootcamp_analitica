@@ -45,9 +45,8 @@ mlp.show()"""
 
 # ejercicio 5
 
-url= " https://drive.google.com/uc?export=download&id=1VbrQjDF2Br0tjHHiruUnp-0qmnQwon1I"
-df=pa.read_csv(url)
-#print(df.head())
+#url= " https://drive.google.com/uc?export=download&id=1VbrQjDF2Br0tjHHiruUnp-0qmnQwon1I"
+df=pa.read_excel("data/datos_comparacion17.xlsx")
 #print(df.info())
 df["Puntuacion de credito"]= pa.to_numeric(df["Puntuacion de credito"], errors="coerce")
 df["Ingreso Mensual"] = pa.to_numeric(df["Ingreso Mensual"], errors="coerce")
