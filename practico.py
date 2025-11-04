@@ -66,6 +66,18 @@ print("Gasto total de sueldos:",total_sueldos)
 
 #7
 
+cantidad = int(input("Ingrese la cantidad de piezas a procesar: "))
+
+aptas = 0
+
+for _ in range(cantidad):
+    longitud = float(input("Ingrese la longitud de la pieza en metros: "))
+    if 1.20 <= longitud <= 1.30:
+        aptas += 1
+
+print(f"La cantidad de piezas aptas es: {aptas}")
+
+
 #2.1
 num1 = float(input("Ingrese el primer número: "))
 num2 = float(input("Ingrese el segundo número: "))
@@ -183,3 +195,290 @@ for articulo, precio in cesta.items():
     print(f"{articulo}\t{precio}")
 
 print(f"\nTOTAL\t{sum(cesta.values())}")
+
+#3.3
+def main():
+    clientes = {}
+    
+    while True:
+        opcion = input()
+        
+        if opcion == "1":
+            nit = input()
+            nombre = input()
+            direccion = input()
+            telefono = input()
+            correo = input()
+            preferencial = input().lower()
+            
+            clientes[nit] = {
+                'nombre': nombre,
+                'direccion': direccion, 
+                'telefono': telefono,
+                'correo': correo,
+                'preferencial': preferencial == 'si'
+            }
+            print("Cliente añadido correctamente.")
+            
+        elif opcion == "2":
+            nit = input()
+            if nit in clientes:
+                del clientes[nit]
+                print("Cliente eliminado correctamente.")
+            else:
+                print("Error: No existe un cliente con ese NIT.")
+                
+        elif opcion == "3":
+            nit = input()
+            if nit in clientes:
+                cliente = clientes[nit]
+                print("Datos del cliente:")
+                print(f"Nombre: {cliente['nombre']}")
+                print(f"Dirección: {cliente['direccion']}")
+                print(f"Teléfono: {cliente['telefono']}")
+                print(f"Correo: {cliente['correo']}")
+                print(f"Preferencial: {'Sí' if cliente['preferencial'] else 'No'}")
+            else:
+                print("Error: No existe un cliente con ese NIT.")
+                
+        elif opcion == "4":
+            if not clientes:
+                print("No hay clientes registrados.")
+            else:
+                print("Lista de todos los clientes:")
+                for nit, datos in clientes.items():
+                    print(f"NIT: {nit}, Nombre: {datos['nombre']}")
+                    
+#3.3
+
+def main():
+    clientes = {}
+    
+    while True:
+        opcion = input()
+        
+        if opcion == "1":
+            nit = input()
+            nombre = input()
+            direccion = input()
+            telefono = input()
+            correo = input()
+            preferencial = input().lower()
+            
+            clientes[nit] = {
+                'nombre': nombre,
+                'direccion': direccion, 
+                'telefono': telefono,
+                'correo': correo,
+                'preferencial': preferencial == 'si'
+            }
+            print("Cliente añadido correctamente.")
+            
+        elif opcion == "2":
+            nit = input()
+            if nit in clientes:
+                del clientes[nit]
+                print("Cliente eliminado correctamente.")
+            else:
+                print("Error: No existe un cliente con ese NIT.")
+                
+        elif opcion == "3":
+            nit = input()
+            if nit in clientes:
+                cliente = clientes[nit]
+                print("Datos del cliente:")
+                print(f"Nombre: {cliente['nombre']}")
+                print(f"Dirección: {cliente['direccion']}")
+                print(f"Teléfono: {cliente['telefono']}")
+                print(f"Correo: {cliente['correo']}")
+                print(f"Preferencial: {'Sí' if cliente['preferencial'] else 'No'}")
+            else:
+                print("Error: No existe un cliente con ese NIT.")
+                
+        elif opcion == "4":
+            if not clientes:
+                print("No hay clientes registrados.")
+            else:
+                print("Lista de todos los clientes:")
+                for nit, datos in clientes.items():
+                    print(f"NIT: {nit}, Nombre: {datos['nombre']}")
+                    
+        elif opcion == "5":
+            preferenciales = {}
+            for nit, datos in clientes.items():
+                if datos['preferencial']:
+                    preferenciales[nit] = datos
+                    
+            if not preferenciales:
+                print("No hay clientes preferenciales registrados.")
+            else:
+                print("Lista de clientes preferenciales:")
+                for nit, datos in preferenciales.items():
+                    print(f"NIT: {nit}, Nombre: {datos['nombre']}")
+                    
+        elif opcion == "6":
+            print("Programa terminado.")
+            break
+
+if __name__ == "__main__":
+    main()
+    
+#3.4
+
+def main():
+    empleados = []
+    
+    while True:
+        print("Menú:\n1. Añadir Empleado\n2. Mostrar Todos los Empleados\n3. Salir")
+        opcion = input("Seleccione una opción: ")
+        
+        if opcion == "1":
+            empleados.append({
+                'Nombre': input("Ingrese el nombre del empleado: "),
+                'Salario': float(input("Ingrese el salario del empleado: ")),
+                'Cargo': input("Ingrese el cargo del empleado: ")
+            })
+        elif opcion == "2":
+            print("Lista de Empleados:")
+            [print(emp) for emp in empleados]
+        elif opcion == "3":
+            print("Saliendo del programa...")
+            break
+        else:
+            print("Opción no válida. Inténtelo de nuevo.")
+
+if __name__ == "__main__":
+    main()
+    
+#3.5
+def main():
+    notas = []
+    
+    while (entrada := input("Ingrese una nota (o -1 para salir): ")) != "-1":
+        try:
+            nota = float(entrada)
+            if 0 <= nota <= 20:
+                notas.append(nota)
+            else:
+                print("Error: La nota debe estar entre 0 y 20.")
+        except ValueError:
+            print("Error: Ingrese un número válido.")
+    
+    print(f"El promedio de las notas es: {sum(notas)/len(notas):.1f}" if notas else "No se ingresaron notas.")
+
+if __name__ == "__main__":
+    main()
+#3.6
+
+
+
+#3.7
+
+#4.1
+
+import pandas as pa 
+df=pa.DataFrame({
+    "Nombre": ["Ana", "Carlos", "María", "Juan"],
+    "Edad": [20,22,21,23],
+    "Calificacion": [85,90,78,95]
+})
+
+print(df)
+
+#4.2
+
+import pandas as pa
+
+datos=pa.DataFrame({
+    "Nombre": ["Ana", "Juan", "María", "Carlos"],
+    "Edad": [22,30,25,28],
+    "Ciudad":["Madrid", "Barcelona", "Valencia", "Sevilla"]
+})
+print("Información del DataFrame:")
+print(datos,"\n")
+
+kk=datos[datos["Edad"]>25]
+print("Personas con edad mayor que 25:")
+print(kk,"\n")
+
+
+datos["Categoria"] = datos["Edad"].apply(lambda edad: "Joven" if edad <= 25 else "Adulto")
+#datos["Categoria"]= ["Joven" if edad <=25 else "Adulto" for edad in datos["Edad"]]
+print("DataFrame Actualizado:")
+print(datos)
+
+
+import pandas as pa
+
+datos=pa.DataFrame({
+    "Nombre": ["Ana", "Juan", "María", "Carlos"],
+    "Edad": [22,30,25,28],
+    "Ciudad":["Madrid", "Barcelona", "Valencia", "Sevilla"]
+})
+print("Información del DataFrame:")
+print(datos,"\n")
+
+kk=datos[datos["Edad"]>25]
+print("Personas con edad mayor que 25:")
+print(kk,"\n")
+
+
+datos["Categoria"] = datos["Edad"].apply(lambda x: "Joven" if x <= 25 else "Adulto")
+#datos["Categoria"]= ["Joven" if edad <=25 else "Adulto" for edad in datos["Edad"]]
+print("DataFrame Actualizado:")
+print(datos)
+
+#4.3
+
+import numpy as ny
+
+vector = ny.array([1, 2, 3, 4, 5])
+media = ny.mean(vector), ny.std(vector)
+
+matriz = ny.array([[7, 4], [8, 5], [7, 10]])
+matriz_multi = matriz * 2
+
+print("Matriz Multiplicada:")
+print(" Columna1  Columna2")
+for fila in matriz_multi:
+    print(f" {fila[0]:>8}{fila[1]:>10}")
+    
+#4.4
+
+import numpy as ny
+
+vector = ny.array([1, 2, 3, 4, 5])
+media = ny.mean(vector), ny.std(vector)
+
+matriz = ny.array([[7, 4], [8, 5], [7, 10]])
+matriz_multi = matriz * 2
+
+print("Matriz Multiplicada:")
+print(" Columna1  Columna2")
+for fila in matriz_multi:
+    print(f" {fila[0]:>8}{fila[1]:>10}")
+    
+#4.5
+
+import pandas as pd
+
+df1 = pd.DataFrame({
+    'A': [1, 2, 3],
+    'B': [4, 5, 6], 
+    'C': [7, 8, 9]
+})
+
+df2 = pd.DataFrame({
+    'A': [10, 11, 12],
+    'B': [13, 14, 15],
+    'C': [16, 17, 18]
+})
+
+resultado = pd.concat([df1, df2], ignore_index=False)
+
+print("DataFrame 1:")
+print(df1)
+print("\nDataFrame 2:")
+print(df2)
+print("\nResultado de la Concatenación:")
+print(resultado)
