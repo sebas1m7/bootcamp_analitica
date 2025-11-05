@@ -1,7 +1,7 @@
 import pandas as pd
 import random
 
-datos1 = pd.read_csv('eccomers.csv', nrows=1000)
+datos1 = pd.read_csv('eccomers.csv')
 datos1.dropna(inplace=True)
 
 print(datos1.isnull().sum())
@@ -21,7 +21,7 @@ traduciones = {
 }
 df["Estado"] = df["Estado"].map(traduciones).fillna(df["Estado"])
 
-busqueda = input("¿Desea buscar por Marca o por Supervisor?: ")
+busqueda = input("¿Desea buscar por Marca o por Supervisor o por pais?: ")
 
 if busqueda.lower() == "marca":
     marcas_disponibles = df["Marca"].unique().tolist()
@@ -53,7 +53,24 @@ elif busqueda.lower() == "supervisor":
         print(f"Resultados para el supervisor '{dato1}':")
         print(resultados1)
     else:
-        print(f"❌ERROR para encontar el supervisor ❌'{dato1}'")
-
+        print(f"ERROR para encontar el supervisor '{dato1}'")
+elif busqueda.lower() == "pais":
+    pais_disponibles = df["Pais"].unique().tolist()
+    print("productos disponibles por pais:")
+    for pa in pais_disponibles:
+        print("-", pa)
+    
+    dato2 = input("Ingrese el pais que desea buscar: ")
+    filtro = df["Pais"].str.lower().str.contains(dato2.lower())
+    resultados2 = df[filtro]
+    
+    if not resultados2.empty:
+        print(f"Resultados para el pais '{dato2}':")
+        print(resultados2)
+    else:
+        print(f"ERROR para encontar el pais '{dato2}'")
+        
 else:
-    print("❌Opción no válida. Por favor elija 'Marca' o 'Supervisor❌")
+    print("Opción no válida. Por favor elija 'Marca' o 'Supervisor")
+
+df1=df.to_excel('eccolo.xlsx', index=False)
