@@ -3,12 +3,13 @@ import random
 
 datos1 = pd.read_csv('eccomers.csv')
 datos1.dropna(inplace=True)
+datos1.drop(["Customer_Name","Cost","Sales"], axis=1, inplace=True)
 
 print(datos1.isnull().sum())
-datos1.columns = ["Numero Orden", "Pais", "Nombre_cliente", "Datos_pedido", "Estado", "Producto", "Categoria", "Marca", "Costo", "Ventas", "Cantidad", "Costo_Totales", "Ventas_totales", "Supervisor"]
+datos1.columns = ["Numero Orden", "Pais", "Datos_pedido", "Estado", "Producto", "Categoria", "Marca", "Cantidad", "Costo_Totales", "Ventas_totales", "Supervisor"]
+print(datos1.info())
 
 date = pd.DataFrame(datos1)
-date["Ganancias"] = date["Ventas"] - date["Costo"]
 date["Ganancias_Totales"] = date["Ventas_totales"] - date["Costo_Totales"]
 date["Pais"] = [random.choice(["Mexico", "Colombia", "China", "Reino Unido", "Alemania", "Italia", "Francia", "E.E.U.U", "Australia", "India", "Brasil", "Japon"]) for i in range(len(date))]
 
@@ -73,4 +74,4 @@ elif busqueda.lower() == "pais":
 else:
     print("Opción no válida. Por favor elija 'Marca' o 'Supervisor")
 
-df1=df.to_excel('eccolo.xlsx', index=False)
+df1=df.to_excel('eccolas.xlsx', index=False)
