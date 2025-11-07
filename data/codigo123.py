@@ -4,8 +4,8 @@ import random
 datos1 = pd.read_csv('eccomers.csv')
 datos1.dropna(inplace=True)
 datos1.drop(["Customer_Name","Cost","Sales"], axis=1, inplace=True)
-
 print(datos1.isnull().sum())
+
 datos1.columns = ["Numero Orden", "Pais", "Datos_pedido", "Estado", "Producto", "Categoria", "Marca", "Cantidad", "Costo_Totales", "Ventas_totales", "Supervisor"]
 print(datos1.info())
 

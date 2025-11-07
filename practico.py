@@ -371,9 +371,38 @@ if __name__ == "__main__":
     main()
 #3.6
 
+try:
+    lineas = []
+    while True:
+        lineas.append(input())
+except EOFError:
+    pass
 
+numeros = [int(x) for x in lineas if x.strip()]
+
+numero_secreto = numeros[0]
+
+for intento in numeros[1:]:
+    if intento < 1 or intento > 10:
+        print("Número fuera de rango. Ingresa un número entre 1 y 10.")
+        continue
+
+    if intento < numero_secreto:
+        print("El número secreto es mayor. Inténtalo de nuevo.")
+    elif intento > numero_secreto:
+        print("El número secreto es menor. Inténtalo de nuevo.")
+    else:
+        print("¡Felicidades! ¡Adivinaste!")
+        break
 
 #3.7
+
+n = int(input("Ingrese un número entero para la altura del triángulo: "))
+for i in range(1, n + 1, 2):
+    linea = []
+    for j in range(i, 0, -2):
+        linea.append(str(j))
+    print(' '.join(linea))
 
 #4.1
 
